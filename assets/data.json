@@ -1,0 +1,6005 @@
+{
+  "by_city_grad": [
+    {
+      "city": "Кавадарци",
+      "stats": {
+        "attempts_1": 20,
+        "attempts_2": 43,
+        "attempts_3": 76,
+        "attempts_other": 24
+      }
+    },
+    {
+      "city": "Неготино",
+      "stats": {
+        "attempts_1": 4,
+        "attempts_2": 11,
+        "attempts_3": 47,
+        "attempts_other": 18
+      }
+    },
+    {
+      "city": "Демир Капија",
+      "stats": {
+        "attempts_1": 2,
+        "attempts_2": 1,
+        "attempts_3": 10,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Велес",
+      "stats": {
+        "attempts_1": 16,
+        "attempts_2": 34,
+        "attempts_3": 105,
+        "attempts_other": 48
+      }
+    },
+    {
+      "city": "Струмица",
+      "stats": {
+        "attempts_1": 123,
+        "attempts_2": 57,
+        "attempts_3": 81,
+        "attempts_other": 12
+      }
+    },
+    {
+      "city": "Гевгелија",
+      "stats": {
+        "attempts_1": 19,
+        "attempts_2": 16,
+        "attempts_3": 55,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Валандово",
+      "stats": {
+        "attempts_1": 8,
+        "attempts_2": 3,
+        "attempts_3": 16,
+        "attempts_other": 4
+      }
+    },
+    {
+      "city": "Радовиш",
+      "stats": {
+        "attempts_1": 7,
+        "attempts_2": 6,
+        "attempts_3": 46,
+        "attempts_other": 7
+      }
+    },
+    {
+      "city": "Струга",
+      "stats": {
+        "attempts_1": 106,
+        "attempts_2": 181,
+        "attempts_3": 43,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Кичево",
+      "stats": {
+        "attempts_1": 42,
+        "attempts_2": 66,
+        "attempts_3": 70,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Охрид",
+      "stats": {
+        "attempts_1": 91,
+        "attempts_2": 149,
+        "attempts_3": 50,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Дебар",
+      "stats": {
+        "attempts_1": 7,
+        "attempts_2": 80,
+        "attempts_3": 30,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Берово",
+      "stats": {
+        "attempts_1": 21,
+        "attempts_2": 9,
+        "attempts_3": 4,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Виница",
+      "stats": {
+        "attempts_1": 14,
+        "attempts_2": 10,
+        "attempts_3": 8,
+        "attempts_other": 5
+      }
+    },
+    {
+      "city": "Кочани",
+      "stats": {
+        "attempts_1": 70,
+        "attempts_2": 42,
+        "attempts_3": 30,
+        "attempts_other": 11
+      }
+    },
+    {
+      "city": "Свети Николе",
+      "stats": {
+        "attempts_1": 24,
+        "attempts_2": 22,
+        "attempts_3": 17,
+        "attempts_other": 9
+      }
+    },
+    {
+      "city": "Пехчево",
+      "stats": {
+        "attempts_1": 4,
+        "attempts_2": 6,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Штип",
+      "stats": {
+        "attempts_1": 102,
+        "attempts_2": 52,
+        "attempts_3": 25,
+        "attempts_other": 17
+      }
+    },
+    {
+      "city": "Пробиштип",
+      "stats": {
+        "attempts_1": 16,
+        "attempts_2": 16,
+        "attempts_3": 9,
+        "attempts_other": 4
+      }
+    },
+    {
+      "city": "Делчево",
+      "stats": {
+        "attempts_1": 31,
+        "attempts_2": 12,
+        "attempts_3": 6,
+        "attempts_other": 4
+      }
+    },
+    {
+      "city": "Мак. Каменица",
+      "stats": {
+        "attempts_1": 7,
+        "attempts_2": 9,
+        "attempts_3": 5,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Тетово",
+      "stats": {
+        "attempts_1": 131,
+        "attempts_2": 157,
+        "attempts_3": 113,
+        "attempts_other": 331
+      }
+    },
+    {
+      "city": "Гостивар",
+      "stats": {
+        "attempts_1": 50,
+        "attempts_2": 56,
+        "attempts_3": 40,
+        "attempts_other": 116
+      }
+    },
+    {
+      "city": "Скопје",
+      "stats": {
+        "attempts_1": 132,
+        "attempts_2": 225,
+        "attempts_3": 289,
+        "attempts_other": 308
+      }
+    },
+    {
+      "city": "Битола",
+      "stats": {
+        "attempts_1": 55,
+        "attempts_2": 38,
+        "attempts_3": 58,
+        "attempts_other": 16
+      }
+    },
+    {
+      "city": "Демир Хисар",
+      "stats": {
+        "attempts_1": 3,
+        "attempts_2": 4,
+        "attempts_3": 5,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Прилеп",
+      "stats": {
+        "attempts_1": 89,
+        "attempts_2": 67,
+        "attempts_3": 89,
+        "attempts_other": 15
+      }
+    },
+    {
+      "city": "Македонски Брод",
+      "stats": {
+        "attempts_1": 5,
+        "attempts_2": 4,
+        "attempts_3": 3,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Крушево",
+      "stats": {
+        "attempts_1": 9,
+        "attempts_2": 8,
+        "attempts_3": 3,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Ресен",
+      "stats": {
+        "attempts_1": 12,
+        "attempts_2": 10,
+        "attempts_3": 8,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Крива Паланка",
+      "stats": {
+        "attempts_1": 88,
+        "attempts_2": 29,
+        "attempts_3": 8,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Кратово",
+      "stats": {
+        "attempts_1": 22,
+        "attempts_2": 12,
+        "attempts_3": 3,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Куманово",
+      "stats": {
+        "attempts_1": 399,
+        "attempts_2": 226,
+        "attempts_3": 81,
+        "attempts_other": 41
+      }
+    }
+  ],
+  "by_city_poligon": [
+    {
+      "city": "Кавадарци",
+      "stats": {
+        "attempts_1": 192,
+        "attempts_2": 39,
+        "attempts_3": 5,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Неготино",
+      "stats": {
+        "attempts_1": 85,
+        "attempts_2": 14,
+        "attempts_3": 3,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Демир Капија",
+      "stats": {
+        "attempts_1": 15,
+        "attempts_2": 6,
+        "attempts_3": 3,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Велес",
+      "stats": {
+        "attempts_1": 199,
+        "attempts_2": 60,
+        "attempts_3": 21,
+        "attempts_other": 6
+      }
+    },
+    {
+      "city": "Струмица",
+      "stats": {
+        "attempts_1": 343,
+        "attempts_2": 27,
+        "attempts_3": 6,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Гевгелија",
+      "stats": {
+        "attempts_1": 138,
+        "attempts_2": 5,
+        "attempts_3": 3,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Валандово",
+      "stats": {
+        "attempts_1": 36,
+        "attempts_2": 1,
+        "attempts_3": 0,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Радовиш",
+      "stats": {
+        "attempts_1": 103,
+        "attempts_2": 11,
+        "attempts_3": 2,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Струга",
+      "stats": {
+        "attempts_1": 345,
+        "attempts_2": 28,
+        "attempts_3": 3,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Кичево",
+      "stats": {
+        "attempts_1": 250,
+        "attempts_2": 19,
+        "attempts_3": 2,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Охрид",
+      "stats": {
+        "attempts_1": 290,
+        "attempts_2": 17,
+        "attempts_3": 2,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Дебар",
+      "stats": {
+        "attempts_1": 133,
+        "attempts_2": 15,
+        "attempts_3": 7,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Берово",
+      "stats": {
+        "attempts_1": 43,
+        "attempts_2": 5,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Виница",
+      "stats": {
+        "attempts_1": 65,
+        "attempts_2": 6,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Кочани",
+      "stats": {
+        "attempts_1": 172,
+        "attempts_2": 25,
+        "attempts_3": 7,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Свети Николе",
+      "stats": {
+        "attempts_1": 79,
+        "attempts_2": 7,
+        "attempts_3": 3,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Пехчево",
+      "stats": {
+        "attempts_1": 9,
+        "attempts_2": 5,
+        "attempts_3": 0,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Штип",
+      "stats": {
+        "attempts_1": 224,
+        "attempts_2": 26,
+        "attempts_3": 5,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Пробиштип",
+      "stats": {
+        "attempts_1": 54,
+        "attempts_2": 6,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Делчево",
+      "stats": {
+        "attempts_1": 60,
+        "attempts_2": 5,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Мак. Каменица",
+      "stats": {
+        "attempts_1": 31,
+        "attempts_2": 4,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Тетово",
+      "stats": {
+        "attempts_1": 988,
+        "attempts_2": 132,
+        "attempts_3": 20,
+        "attempts_other": 6
+      }
+    },
+    {
+      "city": "Гостивар",
+      "stats": {
+        "attempts_1": 489,
+        "attempts_2": 65,
+        "attempts_3": 8,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Скопје",
+      "stats": {
+        "attempts_1": 1363,
+        "attempts_2": 238,
+        "attempts_3": 31,
+        "attempts_other": 10
+      }
+    },
+    {
+      "city": "Битола",
+      "stats": {
+        "attempts_1": 223,
+        "attempts_2": 31,
+        "attempts_3": 6,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Демир Хисар",
+      "stats": {
+        "attempts_1": 26,
+        "attempts_2": 3,
+        "attempts_3": 1,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Прилеп",
+      "stats": {
+        "attempts_1": 353,
+        "attempts_2": 34,
+        "attempts_3": 5,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Македонски Брод",
+      "stats": {
+        "attempts_1": 13,
+        "attempts_2": 1,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Крушево",
+      "stats": {
+        "attempts_1": 18,
+        "attempts_2": 8,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Ресен",
+      "stats": {
+        "attempts_1": 19,
+        "attempts_2": 2,
+        "attempts_3": 3,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Крива Паланка",
+      "stats": {
+        "attempts_1": 113,
+        "attempts_2": 16,
+        "attempts_3": 2,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Кратово",
+      "stats": {
+        "attempts_1": 25,
+        "attempts_2": 6,
+        "attempts_3": 2,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Куманово",
+      "stats": {
+        "attempts_1": 652,
+        "attempts_2": 116,
+        "attempts_3": 34,
+        "attempts_other": 8
+      }
+    }
+  ],
+  "by_city_teorija": [
+    {
+      "city": "Кавадарци",
+      "stats": {
+        "attempts_1": 271,
+        "attempts_2": 29,
+        "attempts_3": 7,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Неготино",
+      "stats": {
+        "attempts_1": 136,
+        "attempts_2": 19,
+        "attempts_3": 0,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Демир Капија",
+      "stats": {
+        "attempts_1": 24,
+        "attempts_2": 5,
+        "attempts_3": 2,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Велес",
+      "stats": {
+        "attempts_1": 402,
+        "attempts_2": 42,
+        "attempts_3": 4,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Струмица",
+      "stats": {
+        "attempts_1": 429,
+        "attempts_2": 54,
+        "attempts_3": 7,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Гевгелија",
+      "stats": {
+        "attempts_1": 197,
+        "attempts_2": 20,
+        "attempts_3": 2,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Валандово",
+      "stats": {
+        "attempts_1": 65,
+        "attempts_2": 6,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Радовиш",
+      "stats": {
+        "attempts_1": 155,
+        "attempts_2": 17,
+        "attempts_3": 2,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Струга",
+      "stats": {
+        "attempts_1": 445,
+        "attempts_2": 47,
+        "attempts_3": 7,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Кичево",
+      "stats": {
+        "attempts_1": 314,
+        "attempts_2": 42,
+        "attempts_3": 11,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Охрид",
+      "stats": {
+        "attempts_1": 428,
+        "attempts_2": 37,
+        "attempts_3": 6,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Дебар",
+      "stats": {
+        "attempts_1": 192,
+        "attempts_2": 25,
+        "attempts_3": 3,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Берово",
+      "stats": {
+        "attempts_1": 47,
+        "attempts_2": 8,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Виница",
+      "stats": {
+        "attempts_1": 100,
+        "attempts_2": 6,
+        "attempts_3": 1,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Кочани",
+      "stats": {
+        "attempts_1": 245,
+        "attempts_2": 26,
+        "attempts_3": 1,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Свети Николе",
+      "stats": {
+        "attempts_1": 113,
+        "attempts_2": 12,
+        "attempts_3": 0,
+        "attempts_other": 2
+      }
+    },
+    {
+      "city": "Пехчево",
+      "stats": {
+        "attempts_1": 15,
+        "attempts_2": 3,
+        "attempts_3": 0,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Штип",
+      "stats": {
+        "attempts_1": 327,
+        "attempts_2": 28,
+        "attempts_3": 3,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Пробиштип",
+      "stats": {
+        "attempts_1": 95,
+        "attempts_2": 5,
+        "attempts_3": 2,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Делчево",
+      "stats": {
+        "attempts_1": 84,
+        "attempts_2": 7,
+        "attempts_3": 2,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Мак. Каменица",
+      "stats": {
+        "attempts_1": 40,
+        "attempts_2": 6,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Тетово",
+      "stats": {
+        "attempts_1": 1457,
+        "attempts_2": 184,
+        "attempts_3": 46,
+        "attempts_other": 5
+      }
+    },
+    {
+      "city": "Гостивар",
+      "stats": {
+        "attempts_1": 579,
+        "attempts_2": 113,
+        "attempts_3": 18,
+        "attempts_other": 7
+      }
+    },
+    {
+      "city": "Скопје",
+      "stats": {
+        "attempts_1": 2857,
+        "attempts_2": 339,
+        "attempts_3": 63,
+        "attempts_other": 18
+      }
+    },
+    {
+      "city": "Битола",
+      "stats": {
+        "attempts_1": 413,
+        "attempts_2": 34,
+        "attempts_3": 5,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Демир Хисар",
+      "stats": {
+        "attempts_1": 37,
+        "attempts_2": 2,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Прилеп",
+      "stats": {
+        "attempts_1": 502,
+        "attempts_2": 52,
+        "attempts_3": 7,
+        "attempts_other": 3
+      }
+    },
+    {
+      "city": "Македонски Брод",
+      "stats": {
+        "attempts_1": 15,
+        "attempts_2": 2,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Крушево",
+      "stats": {
+        "attempts_1": 33,
+        "attempts_2": 10,
+        "attempts_3": 1,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Ресен",
+      "stats": {
+        "attempts_1": 53,
+        "attempts_2": 1,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Крива Паланка",
+      "stats": {
+        "attempts_1": 155,
+        "attempts_2": 15,
+        "attempts_3": 3,
+        "attempts_other": 1
+      }
+    },
+    {
+      "city": "Кратово",
+      "stats": {
+        "attempts_1": 45,
+        "attempts_2": 3,
+        "attempts_3": 1,
+        "attempts_other": 0
+      }
+    },
+    {
+      "city": "Куманово",
+      "stats": {
+        "attempts_1": 942,
+        "attempts_2": 130,
+        "attempts_3": 30,
+        "attempts_other": 2
+      }
+    }
+  ],
+  "by_website_grad": [
+    {
+      "website": "http://sic1.ddnsfree.com/zsrn/",
+      "stats": {
+        "attempts_1": 42,
+        "attempts_2": 89,
+        "attempts_3": 238,
+        "attempts_other": 93
+      }
+    },
+    {
+      "website": "http://ics.ddnsfree.com:81/icsrzn1/",
+      "stats": {
+        "attempts_1": 157,
+        "attempts_2": 82,
+        "attempts_3": 198,
+        "attempts_other": 26
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/svrez1/",
+      "stats": {
+        "attempts_1": 246,
+        "attempts_2": 476,
+        "attempts_3": 193,
+        "attempts_other": 3
+      }
+    },
+    {
+      "website": "http://newdriver.hopto.org/ndrez/default.aspx",
+      "stats": {
+        "attempts_1": 179,
+        "attempts_2": 214,
+        "attempts_3": 153,
+        "attempts_other": 447
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/ivr1/",
+      "stats": {
+        "attempts_1": 288,
+        "attempts_2": 177,
+        "attempts_3": 106,
+        "attempts_other": 53
+      }
+    },
+    {
+      "website": "http://www.sicam.mk/termini.aspx",
+      "stats": {
+        "attempts_1": 173,
+        "attempts_2": 131,
+        "attempts_3": 166,
+        "attempts_other": 39
+      }
+    },
+    {
+      "website": "http://77.28.103.235/tdrn/",
+      "stats": {
+        "attempts_1": 509,
+        "attempts_2": 267,
+        "attempts_3": 92,
+        "attempts_other": 43
+      }
+    },
+    {
+      "website": "http://sicrez.ddns.net:8008/avir1/",
+      "stats": {
+        "attempts_1": 132,
+        "attempts_2": 225,
+        "attempts_3": 289,
+        "attempts_other": 308
+      }
+    }
+  ],
+  "by_website_poligon": [
+    {
+      "website": "http://sic1.ddnsfree.com/zsrn/",
+      "stats": {
+        "attempts_1": 491,
+        "attempts_2": 119,
+        "attempts_3": 32,
+        "attempts_other": 12
+      }
+    },
+    {
+      "website": "http://ics.ddnsfree.com:81/icsrzn1/",
+      "stats": {
+        "attempts_1": 620,
+        "attempts_2": 44,
+        "attempts_3": 11,
+        "attempts_other": 2
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/svrez1/",
+      "stats": {
+        "attempts_1": 1018,
+        "attempts_2": 79,
+        "attempts_3": 14,
+        "attempts_other": 0
+      }
+    },
+    {
+      "website": "http://newdriver.hopto.org/ndrez/default.aspx",
+      "stats": {
+        "attempts_1": 1477,
+        "attempts_2": 197,
+        "attempts_3": 28,
+        "attempts_other": 6
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/ivr1/",
+      "stats": {
+        "attempts_1": 737,
+        "attempts_2": 89,
+        "attempts_3": 20,
+        "attempts_other": 2
+      }
+    },
+    {
+      "website": "http://www.sicam.mk/termini.aspx",
+      "stats": {
+        "attempts_1": 652,
+        "attempts_2": 79,
+        "attempts_3": 17,
+        "attempts_other": 3
+      }
+    },
+    {
+      "website": "http://77.28.103.235/tdrn/",
+      "stats": {
+        "attempts_1": 790,
+        "attempts_2": 138,
+        "attempts_3": 38,
+        "attempts_other": 9
+      }
+    },
+    {
+      "website": "http://sicrez.ddns.net:8008/avir1/",
+      "stats": {
+        "attempts_1": 1363,
+        "attempts_2": 238,
+        "attempts_3": 31,
+        "attempts_other": 10
+      }
+    }
+  ],
+  "by_website_teorija": [
+    {
+      "website": "http://sic1.ddnsfree.com/zsrn/",
+      "stats": {
+        "attempts_1": 833,
+        "attempts_2": 95,
+        "attempts_3": 13,
+        "attempts_other": 5
+      }
+    },
+    {
+      "website": "http://ics.ddnsfree.com:81/icsrzn1/",
+      "stats": {
+        "attempts_1": 846,
+        "attempts_2": 97,
+        "attempts_3": 12,
+        "attempts_other": 0
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/svrez1/",
+      "stats": {
+        "attempts_1": 1379,
+        "attempts_2": 151,
+        "attempts_3": 27,
+        "attempts_other": 6
+      }
+    },
+    {
+      "website": "http://newdriver.hopto.org/ndrez/default.aspx",
+      "stats": {
+        "attempts_1": 2037,
+        "attempts_2": 297,
+        "attempts_3": 64,
+        "attempts_other": 12
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/ivr1/",
+      "stats": {
+        "attempts_1": 1066,
+        "attempts_2": 101,
+        "attempts_3": 11,
+        "attempts_other": 8
+      }
+    },
+    {
+      "website": "http://www.sicam.mk/termini.aspx",
+      "stats": {
+        "attempts_1": 1053,
+        "attempts_2": 101,
+        "attempts_3": 16,
+        "attempts_other": 4
+      }
+    },
+    {
+      "website": "http://77.28.103.235/tdrn/",
+      "stats": {
+        "attempts_1": 1142,
+        "attempts_2": 148,
+        "attempts_3": 34,
+        "attempts_other": 3
+      }
+    },
+    {
+      "website": "http://sicrez.ddns.net:8008/avir1/",
+      "stats": {
+        "attempts_1": 2856,
+        "attempts_2": 339,
+        "attempts_3": 63,
+        "attempts_other": 18
+      }
+    }
+  ],
+  "home": [
+    {
+      "type": "Теорија",
+      "stats": {
+        "attempts_1": 11206,
+        "attempts_2": 1332,
+        "attempts_3": 240,
+        "attempts_other": 56
+      }
+    },
+    {
+      "type": "Полигон",
+      "stats": {
+        "attempts_1": 7146,
+        "attempts_2": 984,
+        "attempts_3": 191,
+        "attempts_other": 44
+      }
+    },
+    {
+      "type": "Град",
+      "stats": {
+        "attempts_1": 1720,
+        "attempts_2": 1661,
+        "attempts_3": 1434,
+        "attempts_other": 1014
+      }
+    }
+  ],
+  "by_week_grad": [
+    {
+      "website": "http://sic1.ddnsfree.com/zsrn/",
+      "stats": {
+        "monday": {
+          "total_attempts": 500,
+          "passed_attempts": 166,
+          "pass_rate": 33.2
+        },
+        "tuesday": {
+          "total_attempts": 624,
+          "passed_attempts": 196,
+          "pass_rate": 31.41025641025641
+        },
+        "wednesday": {
+          "total_attempts": 581,
+          "passed_attempts": 179,
+          "pass_rate": 30.80895008605852
+        },
+        "thursday": {
+          "total_attempts": 673,
+          "passed_attempts": 211,
+          "pass_rate": 31.352154531946507
+        },
+        "friday": {
+          "total_attempts": 542,
+          "passed_attempts": 188,
+          "pass_rate": 34.686346863468636
+        }
+      }
+    },
+    {
+      "website": "http://ics.ddnsfree.com:81/icsrzn1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 825,
+          "passed_attempts": 329,
+          "pass_rate": 39.878787878787875
+        },
+        "tuesday": {
+          "total_attempts": 525,
+          "passed_attempts": 197,
+          "pass_rate": 37.523809523809526
+        },
+        "wednesday": {
+          "total_attempts": 616,
+          "passed_attempts": 251,
+          "pass_rate": 40.746753246753244
+        },
+        "thursday": {
+          "total_attempts": 236,
+          "passed_attempts": 100,
+          "pass_rate": 42.3728813559322
+        },
+        "friday": {
+          "total_attempts": 738,
+          "passed_attempts": 272,
+          "pass_rate": 36.856368563685635
+        }
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/svrez1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 681,
+          "passed_attempts": 325,
+          "pass_rate": 47.72393538913363
+        },
+        "tuesday": {
+          "total_attempts": 684,
+          "passed_attempts": 329,
+          "pass_rate": 48.099415204678365
+        },
+        "wednesday": {
+          "total_attempts": 687,
+          "passed_attempts": 306,
+          "pass_rate": 44.54148471615721
+        },
+        "thursday": {
+          "total_attempts": 726,
+          "passed_attempts": 360,
+          "pass_rate": 49.586776859504134
+        },
+        "friday": {
+          "total_attempts": 643,
+          "passed_attempts": 287,
+          "pass_rate": 44.63452566096423
+        }
+      }
+    },
+    {
+      "website": "http://newdriver.hopto.org/ndrez/default.aspx",
+      "stats": {
+        "monday": {
+          "total_attempts": 1600,
+          "passed_attempts": 461,
+          "pass_rate": 28.8125
+        },
+        "tuesday": {
+          "total_attempts": 1794,
+          "passed_attempts": 509,
+          "pass_rate": 28.372352285395763
+        },
+        "wednesday": {
+          "total_attempts": 1677,
+          "passed_attempts": 477,
+          "pass_rate": 28.443649373881932
+        },
+        "thursday": {
+          "total_attempts": 1934,
+          "passed_attempts": 583,
+          "pass_rate": 30.14477766287487
+        },
+        "friday": {
+          "total_attempts": 1604,
+          "passed_attempts": 505,
+          "pass_rate": 31.48379052369077
+        }
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/ivr1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 582,
+          "passed_attempts": 245,
+          "pass_rate": 42.09621993127148
+        },
+        "tuesday": {
+          "total_attempts": 545,
+          "passed_attempts": 221,
+          "pass_rate": 40.55045871559633
+        },
+        "wednesday": {
+          "total_attempts": 713,
+          "passed_attempts": 323,
+          "pass_rate": 45.301542776998595
+        },
+        "thursday": {
+          "total_attempts": 806,
+          "passed_attempts": 344,
+          "pass_rate": 42.67990074441688
+        },
+        "friday": {
+          "total_attempts": 637,
+          "passed_attempts": 236,
+          "pass_rate": 37.04866562009419
+        }
+      }
+    },
+    {
+      "website": "http://www.sicam.mk/termini.aspx",
+      "stats": {
+        "monday": {
+          "total_attempts": 654,
+          "passed_attempts": 256,
+          "pass_rate": 39.14373088685015
+        },
+        "tuesday": {
+          "total_attempts": 676,
+          "passed_attempts": 268,
+          "pass_rate": 39.64497041420118
+        },
+        "wednesday": {
+          "total_attempts": 740,
+          "passed_attempts": 293,
+          "pass_rate": 39.5945945945946
+        },
+        "thursday": {
+          "total_attempts": 647,
+          "passed_attempts": 261,
+          "pass_rate": 40.34003091190108
+        },
+        "friday": {
+          "total_attempts": 599,
+          "passed_attempts": 228,
+          "pass_rate": 38.06343906510851
+        }
+      }
+    },
+    {
+      "website": "http://77.28.103.235/tdrn/",
+      "stats": {
+        "monday": {
+          "total_attempts": 610,
+          "passed_attempts": 342,
+          "pass_rate": 56.0655737704918
+        },
+        "tuesday": {
+          "total_attempts": 622,
+          "passed_attempts": 296,
+          "pass_rate": 47.58842443729903
+        },
+        "wednesday": {
+          "total_attempts": 653,
+          "passed_attempts": 327,
+          "pass_rate": 50.07656967840735
+        },
+        "thursday": {
+          "total_attempts": 650,
+          "passed_attempts": 315,
+          "pass_rate": 48.46153846153846
+        },
+        "friday": {
+          "total_attempts": 560,
+          "passed_attempts": 280,
+          "pass_rate": 50.0
+        }
+      }
+    },
+    {
+      "website": "http://sicrez.ddns.net:8008/avir1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 143,
+          "passed_attempts": 43,
+          "pass_rate": 30.06993006993007
+        },
+        "tuesday": {
+          "total_attempts": 2332,
+          "passed_attempts": 626,
+          "pass_rate": 26.843910806174957
+        },
+        "wednesday": {
+          "total_attempts": 2917,
+          "passed_attempts": 746,
+          "pass_rate": 25.57422008913267
+        },
+        "thursday": {
+          "total_attempts": 2465,
+          "passed_attempts": 639,
+          "pass_rate": 25.92292089249493
+        },
+        "friday": {
+          "total_attempts": 2753,
+          "passed_attempts": 671,
+          "pass_rate": 24.37341082455503
+        }
+      }
+    }
+  ],
+  "by_week_poligon": [
+    {
+      "website": "http://sic1.ddnsfree.com/zsrn/",
+      "stats": {
+        "monday": {
+          "total_attempts": 115,
+          "passed_attempts": 59,
+          "pass_rate": 51.30434782608695
+        },
+        "tuesday": {
+          "total_attempts": 437,
+          "passed_attempts": 276,
+          "pass_rate": 63.1578947368421
+        },
+        "wednesday": {
+          "total_attempts": 304,
+          "passed_attempts": 158,
+          "pass_rate": 51.973684210526315
+        },
+        "thursday": {
+          "total_attempts": 405,
+          "passed_attempts": 219,
+          "pass_rate": 54.074074074074076
+        },
+        "friday": {
+          "total_attempts": 278,
+          "passed_attempts": 161,
+          "pass_rate": 57.9136690647482
+        }
+      }
+    },
+    {
+      "website": "http://ics.ddnsfree.com:81/icsrzn1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 407,
+          "passed_attempts": 347,
+          "pass_rate": 85.25798525798525
+        },
+        "tuesday": {
+          "total_attempts": 196,
+          "passed_attempts": 155,
+          "pass_rate": 79.08163265306122
+        },
+        "wednesday": {
+          "total_attempts": 486,
+          "passed_attempts": 412,
+          "pass_rate": 84.77366255144032
+        },
+        "thursday": {
+          "total_attempts": 14,
+          "passed_attempts": 12,
+          "pass_rate": 85.71428571428571
+        },
+        "friday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/svrez1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 333,
+          "passed_attempts": 284,
+          "pass_rate": 85.28528528528528
+        },
+        "tuesday": {
+          "total_attempts": 365,
+          "passed_attempts": 309,
+          "pass_rate": 84.65753424657534
+        },
+        "wednesday": {
+          "total_attempts": 410,
+          "passed_attempts": 339,
+          "pass_rate": 82.6829268292683
+        },
+        "thursday": {
+          "total_attempts": 395,
+          "passed_attempts": 326,
+          "pass_rate": 82.53164556962025
+        },
+        "friday": {
+          "total_attempts": 352,
+          "passed_attempts": 281,
+          "pass_rate": 79.82954545454545
+        }
+      }
+    },
+    {
+      "website": "http://newdriver.hopto.org/ndrez/default.aspx",
+      "stats": {
+        "monday": {
+          "total_attempts": 63,
+          "passed_attempts": 48,
+          "pass_rate": 76.19047619047619
+        },
+        "tuesday": {
+          "total_attempts": 1528,
+          "passed_attempts": 1077,
+          "pass_rate": 70.48429319371728
+        },
+        "wednesday": {
+          "total_attempts": 877,
+          "passed_attempts": 707,
+          "pass_rate": 80.61573546180159
+        },
+        "thursday": {
+          "total_attempts": 938,
+          "passed_attempts": 682,
+          "pass_rate": 72.70788912579957
+        },
+        "friday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/ivr1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 449,
+          "passed_attempts": 329,
+          "pass_rate": 73.27394209354121
+        },
+        "tuesday": {
+          "total_attempts": 529,
+          "passed_attempts": 382,
+          "pass_rate": 72.2117202268431
+        },
+        "wednesday": {
+          "total_attempts": 314,
+          "passed_attempts": 225,
+          "pass_rate": 71.65605095541402
+        },
+        "thursday": {
+          "total_attempts": 188,
+          "passed_attempts": 140,
+          "pass_rate": 74.46808510638297
+        },
+        "friday": {
+          "total_attempts": 98,
+          "passed_attempts": 81,
+          "pass_rate": 82.65306122448979
+        }
+      }
+    },
+    {
+      "website": "http://www.sicam.mk/termini.aspx",
+      "stats": {
+        "monday": {
+          "total_attempts": 467,
+          "passed_attempts": 359,
+          "pass_rate": 76.87366167023555
+        },
+        "tuesday": {
+          "total_attempts": 445,
+          "passed_attempts": 313,
+          "pass_rate": 70.33707865168539
+        },
+        "wednesday": {
+          "total_attempts": 365,
+          "passed_attempts": 229,
+          "pass_rate": 62.73972602739726
+        },
+        "thursday": {
+          "total_attempts": 157,
+          "passed_attempts": 125,
+          "pass_rate": 79.61783439490446
+        },
+        "friday": {
+          "total_attempts": 144,
+          "passed_attempts": 105,
+          "pass_rate": 72.91666666666667
+        }
+      }
+    },
+    {
+      "website": "http://77.28.103.235/tdrn/",
+      "stats": {
+        "monday": {
+          "total_attempts": 371,
+          "passed_attempts": 263,
+          "pass_rate": 70.88948787061994
+        },
+        "tuesday": {
+          "total_attempts": 951,
+          "passed_attempts": 667,
+          "pass_rate": 70.13669821240799
+        },
+        "wednesday": {
+          "total_attempts": 755,
+          "passed_attempts": 507,
+          "pass_rate": 67.1523178807947
+        },
+        "thursday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        },
+        "friday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    {
+      "website": "http://sicrez.ddns.net:8008/avir1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 69,
+          "passed_attempts": 59,
+          "pass_rate": 85.5072463768116
+        },
+        "tuesday": {
+          "total_attempts": 820,
+          "passed_attempts": 620,
+          "pass_rate": 75.60975609756098
+        },
+        "wednesday": {
+          "total_attempts": 848,
+          "passed_attempts": 640,
+          "pass_rate": 75.47169811320755
+        },
+        "thursday": {
+          "total_attempts": 830,
+          "passed_attempts": 614,
+          "pass_rate": 73.97590361445783
+        },
+        "friday": {
+          "total_attempts": 1018,
+          "passed_attempts": 742,
+          "pass_rate": 72.88801571709234
+        }
+      }
+    }
+  ],
+  "by_week_teorija": [
+    {
+      "website": "http://sic1.ddnsfree.com/zsrn/",
+      "stats": {
+        "monday": {
+          "total_attempts": 365,
+          "passed_attempts": 272,
+          "pass_rate": 74.52054794520548
+        },
+        "tuesday": {
+          "total_attempts": 119,
+          "passed_attempts": 80,
+          "pass_rate": 67.22689075630252
+        },
+        "wednesday": {
+          "total_attempts": 520,
+          "passed_attempts": 371,
+          "pass_rate": 71.34615384615384
+        },
+        "thursday": {
+          "total_attempts": 70,
+          "passed_attempts": 56,
+          "pass_rate": 80.0
+        },
+        "friday": {
+          "total_attempts": 249,
+          "passed_attempts": 167,
+          "pass_rate": 67.06827309236948
+        }
+      }
+    },
+    {
+      "website": "http://ics.ddnsfree.com:81/icsrzn1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 447,
+          "passed_attempts": 311,
+          "pass_rate": 69.57494407158836
+        },
+        "tuesday": {
+          "total_attempts": 248,
+          "passed_attempts": 167,
+          "pass_rate": 67.33870967741936
+        },
+        "wednesday": {
+          "total_attempts": 619,
+          "passed_attempts": 468,
+          "pass_rate": 75.60581583198707
+        },
+        "thursday": {
+          "total_attempts": 15,
+          "passed_attempts": 9,
+          "pass_rate": 60.0
+        },
+        "friday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/svrez1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 248,
+          "passed_attempts": 189,
+          "pass_rate": 76.20967741935483
+        },
+        "tuesday": {
+          "total_attempts": 467,
+          "passed_attempts": 327,
+          "pass_rate": 70.02141327623126
+        },
+        "wednesday": {
+          "total_attempts": 525,
+          "passed_attempts": 364,
+          "pass_rate": 69.33333333333333
+        },
+        "thursday": {
+          "total_attempts": 530,
+          "passed_attempts": 369,
+          "pass_rate": 69.62264150943396
+        },
+        "friday": {
+          "total_attempts": 408,
+          "passed_attempts": 314,
+          "pass_rate": 76.96078431372548
+        }
+      }
+    },
+    {
+      "website": "http://newdriver.hopto.org/ndrez/default.aspx",
+      "stats": {
+        "monday": {
+          "total_attempts": 1183,
+          "passed_attempts": 639,
+          "pass_rate": 54.015215553677095
+        },
+        "tuesday": {
+          "total_attempts": 2213,
+          "passed_attempts": 1366,
+          "pass_rate": 61.72616357885224
+        },
+        "wednesday": {
+          "total_attempts": 678,
+          "passed_attempts": 406,
+          "pass_rate": 59.882005899705014
+        },
+        "thursday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        },
+        "friday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    {
+      "website": "http://sic1.ddnsfree.com/ivr1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 443,
+          "passed_attempts": 347,
+          "pass_rate": 78.3295711060948
+        },
+        "tuesday": {
+          "total_attempts": 510,
+          "passed_attempts": 396,
+          "pass_rate": 77.6470588235294
+        },
+        "wednesday": {
+          "total_attempts": 300,
+          "passed_attempts": 229,
+          "pass_rate": 76.33333333333333
+        },
+        "thursday": {
+          "total_attempts": 203,
+          "passed_attempts": 143,
+          "pass_rate": 70.44334975369458
+        },
+        "friday": {
+          "total_attempts": 102,
+          "passed_attempts": 72,
+          "pass_rate": 70.58823529411765
+        }
+      }
+    },
+    {
+      "website": "http://www.sicam.mk/termini.aspx",
+      "stats": {
+        "monday": {
+          "total_attempts": 29,
+          "passed_attempts": 24,
+          "pass_rate": 82.75862068965517
+        },
+        "tuesday": {
+          "total_attempts": 107,
+          "passed_attempts": 81,
+          "pass_rate": 75.70093457943925
+        },
+        "wednesday": {
+          "total_attempts": 884,
+          "passed_attempts": 627,
+          "pass_rate": 70.92760180995475
+        },
+        "thursday": {
+          "total_attempts": 583,
+          "passed_attempts": 449,
+          "pass_rate": 77.01543739279589
+        },
+        "friday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    {
+      "website": "http://77.28.103.235/tdrn/",
+      "stats": {
+        "monday": {
+          "total_attempts": 814,
+          "passed_attempts": 531,
+          "pass_rate": 65.23341523341523
+        },
+        "tuesday": {
+          "total_attempts": 894,
+          "passed_attempts": 582,
+          "pass_rate": 65.1006711409396
+        },
+        "wednesday": {
+          "total_attempts": 282,
+          "passed_attempts": 214,
+          "pass_rate": 75.88652482269504
+        },
+        "thursday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        },
+        "friday": {
+          "total_attempts": 0,
+          "passed_attempts": 0,
+          "pass_rate": 0.0
+        }
+      }
+    },
+    {
+      "website": "http://sicrez.ddns.net:8008/avir1/",
+      "stats": {
+        "monday": {
+          "total_attempts": 910,
+          "passed_attempts": 609,
+          "pass_rate": 66.92307692307692
+        },
+        "tuesday": {
+          "total_attempts": 1065,
+          "passed_attempts": 695,
+          "pass_rate": 65.25821596244131
+        },
+        "wednesday": {
+          "total_attempts": 900,
+          "passed_attempts": 598,
+          "pass_rate": 66.44444444444444
+        },
+        "thursday": {
+          "total_attempts": 1068,
+          "passed_attempts": 675,
+          "pass_rate": 63.20224719101124
+        },
+        "friday": {
+          "total_attempts": 1091,
+          "passed_attempts": 699,
+          "pass_rate": 64.06966086159487
+        }
+      }
+    }
+  ],
+  "by_school_grad": [
+    {
+      "school": "Блег",
+      "stats": {
+        "total_attempts": 236,
+        "passed_attempts": 147,
+        "pass_rate": 62.29
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Дејан",
+      "stats": {
+        "total_attempts": 263,
+        "passed_attempts": 161,
+        "pass_rate": 61.22
+      },
+      "location": "Крива Паланка"
+    },
+    {
+      "school": "Викторија",
+      "stats": {
+        "total_attempts": 164,
+        "passed_attempts": 99,
+        "pass_rate": 60.37
+      },
+      "location": "Крива Паланка"
+    },
+    {
+      "school": "Никола Шест",
+      "stats": {
+        "total_attempts": 250,
+        "passed_attempts": 149,
+        "pass_rate": 59.6
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "СТАРС ИНЖЕНЕРИНГ",
+      "stats": {
+        "total_attempts": 511,
+        "passed_attempts": 302,
+        "pass_rate": 59.1
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Сив",
+      "stats": {
+        "total_attempts": 189,
+        "passed_attempts": 109,
+        "pass_rate": 57.67
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Тим",
+      "stats": {
+        "total_attempts": 205,
+        "passed_attempts": 117,
+        "pass_rate": 57.07
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Јане 2021",
+      "stats": {
+        "total_attempts": 96,
+        "passed_attempts": 53,
+        "pass_rate": 55.21
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Галеб",
+      "stats": {
+        "total_attempts": 332,
+        "passed_attempts": 183,
+        "pass_rate": 55.12
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Никола Карев",
+      "stats": {
+        "total_attempts": 58,
+        "passed_attempts": 30,
+        "pass_rate": 51.72
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Тимони груп",
+      "stats": {
+        "total_attempts": 31,
+        "passed_attempts": 16,
+        "pass_rate": 51.61
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Рекета",
+      "stats": {
+        "total_attempts": 148,
+        "passed_attempts": 76,
+        "pass_rate": 51.35
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Аполо",
+      "stats": {
+        "total_attempts": 105,
+        "passed_attempts": 53,
+        "pass_rate": 50.48
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Елиго",
+      "stats": {
+        "total_attempts": 173,
+        "passed_attempts": 84,
+        "pass_rate": 48.55
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Југо Фер",
+      "stats": {
+        "total_attempts": 988,
+        "passed_attempts": 477,
+        "pass_rate": 48.28
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Дити-KO",
+      "stats": {
+        "total_attempts": 27,
+        "passed_attempts": 13,
+        "pass_rate": 48.15
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "Сити Старт",
+      "stats": {
+        "total_attempts": 79,
+        "passed_attempts": 37,
+        "pass_rate": 46.84
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Теон",
+      "stats": {
+        "total_attempts": 150,
+        "passed_attempts": 70,
+        "pass_rate": 46.67
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "Ацико Ас",
+      "stats": {
+        "total_attempts": 183,
+        "passed_attempts": 85,
+        "pass_rate": 46.45
+      },
+      "location": "Пехчево"
+    },
+    {
+      "school": "Книпром",
+      "stats": {
+        "total_attempts": 249,
+        "passed_attempts": 114,
+        "pass_rate": 45.78
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "непозната",
+      "stats": {
+        "total_attempts": 70,
+        "passed_attempts": 32,
+        "pass_rate": 45.71
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "Ико",
+      "stats": {
+        "total_attempts": 180,
+        "passed_attempts": 82,
+        "pass_rate": 45.56
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Тимони 2022",
+      "stats": {
+        "total_attempts": 213,
+        "passed_attempts": 96,
+        "pass_rate": 45.07
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "ДПТУ „СЕМАФОР НОВА“ ДООЕЛ Прилеп",
+      "stats": {
+        "total_attempts": 466,
+        "passed_attempts": 209,
+        "pass_rate": 44.85
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "Зебра 2013",
+      "stats": {
+        "total_attempts": 410,
+        "passed_attempts": 183,
+        "pass_rate": 44.63
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Орион-НН",
+      "stats": {
+        "total_attempts": 203,
+        "passed_attempts": 90,
+        "pass_rate": 44.33
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Даниел-Ман",
+      "stats": {
+        "total_attempts": 238,
+        "passed_attempts": 104,
+        "pass_rate": 43.7
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Зебра 207",
+      "stats": {
+        "total_attempts": 243,
+        "passed_attempts": 106,
+        "pass_rate": 43.62
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Сигнал -М",
+      "stats": {
+        "total_attempts": 299,
+        "passed_attempts": 130,
+        "pass_rate": 43.48
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "СТАРТ 007 ДООЕЛ",
+      "stats": {
+        "total_attempts": 66,
+        "passed_attempts": 28,
+        "pass_rate": 42.42
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Јоле",
+      "stats": {
+        "total_attempts": 352,
+        "passed_attempts": 147,
+        "pass_rate": 41.76
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Дарко -ТТ",
+      "stats": {
+        "total_attempts": 775,
+        "passed_attempts": 323,
+        "pass_rate": 41.68
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Зелен Сигнал ЗВД ДООЕЛ",
+      "stats": {
+        "total_attempts": 361,
+        "passed_attempts": 149,
+        "pass_rate": 41.27
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Фи-бо Драјв",
+      "stats": {
+        "total_attempts": 126,
+        "passed_attempts": 52,
+        "pass_rate": 41.27
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "А.Ш„АМД-ПРИЛЕПЕЦ“ Прилеп",
+      "stats": {
+        "total_attempts": 190,
+        "passed_attempts": 78,
+        "pass_rate": 41.05
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "Рудина",
+      "stats": {
+        "total_attempts": 111,
+        "passed_attempts": 45,
+        "pass_rate": 40.54
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Даел Транс",
+      "stats": {
+        "total_attempts": 168,
+        "passed_attempts": 68,
+        "pass_rate": 40.48
+      },
+      "location": "Берово"
+    },
+    {
+      "school": "ДОВУ„АВТО ШКОЛА“ Здружение на возачи Ресен",
+      "stats": {
+        "total_attempts": 94,
+        "passed_attempts": 38,
+        "pass_rate": 40.43
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "ДИТИ-КО 2020",
+      "stats": {
+        "total_attempts": 397,
+        "passed_attempts": 160,
+        "pass_rate": 40.3
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "AШ Семафори 2022",
+      "stats": {
+        "total_attempts": 402,
+        "passed_attempts": 162,
+        "pass_rate": 40.3
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "СТАРТ-ЕДЕН ДООЕЛ ПРИЛЕП",
+      "stats": {
+        "total_attempts": 479,
+        "passed_attempts": 191,
+        "pass_rate": 39.87
+      },
+      "location": "Крушево"
+    },
+    {
+      "school": "ДООЕЛ„АВТО ОЛИ АС-РЕСЕН“ Ресен",
+      "stats": {
+        "total_attempts": 83,
+        "passed_attempts": 33,
+        "pass_rate": 39.76
+      },
+      "location": "Ресен"
+    },
+    {
+      "school": "ДООЕЛ„ЗЕБРА ПЛУС“Прилеп",
+      "stats": {
+        "total_attempts": 81,
+        "passed_attempts": 32,
+        "pass_rate": 39.51
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "ДПТУ„РАН ПЛУС“ДООЕЛ увоз-извоз Битола",
+      "stats": {
+        "total_attempts": 244,
+        "passed_attempts": 96,
+        "pass_rate": 39.34
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Фокус ДООЕЛ",
+      "stats": {
+        "total_attempts": 28,
+        "passed_attempts": 11,
+        "pass_rate": 39.29
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Контакт дооел",
+      "stats": {
+        "total_attempts": 196,
+        "passed_attempts": 77,
+        "pass_rate": 39.29
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "ЈАНА ДООЕЛ",
+      "stats": {
+        "total_attempts": 107,
+        "passed_attempts": 42,
+        "pass_rate": 39.25
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Добри Возачи",
+      "stats": {
+        "total_attempts": 129,
+        "passed_attempts": 50,
+        "pass_rate": 38.76
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "ДТГМПУ„МОТО-РЕЛИ“увоз-извоз Битола ДОО",
+      "stats": {
+        "total_attempts": 243,
+        "passed_attempts": 94,
+        "pass_rate": 38.68
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Паљош",
+      "stats": {
+        "total_attempts": 83,
+        "passed_attempts": 32,
+        "pass_rate": 38.55
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Слоби ДООЕЛ",
+      "stats": {
+        "total_attempts": 96,
+        "passed_attempts": 37,
+        "pass_rate": 38.54
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "Болид плус доо",
+      "stats": {
+        "total_attempts": 128,
+        "passed_attempts": 49,
+        "pass_rate": 38.28
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "ДПТУ„Авто Школа Прима 2019 ДООЕЛ",
+      "stats": {
+        "total_attempts": 136,
+        "passed_attempts": 52,
+        "pass_rate": 38.24
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "ДТУ„ЗЕБРА“ДООЕЛ Битола",
+      "stats": {
+        "total_attempts": 212,
+        "passed_attempts": 81,
+        "pass_rate": 38.21
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "ДООЕЛ„05 СТАРТ“ Битола",
+      "stats": {
+        "total_attempts": 487,
+        "passed_attempts": 186,
+        "pass_rate": 38.19
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Миле-Иле Звезди",
+      "stats": {
+        "total_attempts": 50,
+        "passed_attempts": 19,
+        "pass_rate": 38.0
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "АМД",
+      "stats": {
+        "total_attempts": 82,
+        "passed_attempts": 31,
+        "pass_rate": 37.8
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Ролекс",
+      "stats": {
+        "total_attempts": 61,
+        "passed_attempts": 23,
+        "pass_rate": 37.7
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "АВТО ШКОЛА ГОЛД Пехчево",
+      "stats": {
+        "total_attempts": 56,
+        "passed_attempts": 21,
+        "pass_rate": 37.5
+      },
+      "location": "Берово"
+    },
+    {
+      "school": "АЛФ-РД",
+      "stats": {
+        "total_attempts": 444,
+        "passed_attempts": 165,
+        "pass_rate": 37.16
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Стил",
+      "stats": {
+        "total_attempts": 222,
+        "passed_attempts": 82,
+        "pass_rate": 36.94
+      },
+      "location": "Гевгелија"
+    },
+    {
+      "school": "Авто Школа Инструктори -Кичево",
+      "stats": {
+        "total_attempts": 84,
+        "passed_attempts": 31,
+        "pass_rate": 36.9
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Визион- Идеал",
+      "stats": {
+        "total_attempts": 68,
+        "passed_attempts": 25,
+        "pass_rate": 36.76
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Стартпром Плус",
+      "stats": {
+        "total_attempts": 118,
+        "passed_attempts": 43,
+        "pass_rate": 36.44
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Ива Обука",
+      "stats": {
+        "total_attempts": 992,
+        "passed_attempts": 361,
+        "pass_rate": 36.39
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Моменто",
+      "stats": {
+        "total_attempts": 308,
+        "passed_attempts": 112,
+        "pass_rate": 36.36
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Прима",
+      "stats": {
+        "total_attempts": 443,
+        "passed_attempts": 160,
+        "pass_rate": 36.12
+      },
+      "location": "Гевгелија"
+    },
+    {
+      "school": "Даел",
+      "stats": {
+        "total_attempts": 86,
+        "passed_attempts": 31,
+        "pass_rate": 36.05
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "СПИД 2016",
+      "stats": {
+        "total_attempts": 302,
+        "passed_attempts": 108,
+        "pass_rate": 35.76
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "ДТПУ Тоде Петковски„ШИШКА“увоз-извоз Битола",
+      "stats": {
+        "total_attempts": 121,
+        "passed_attempts": 43,
+        "pass_rate": 35.54
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Ангела",
+      "stats": {
+        "total_attempts": 62,
+        "passed_attempts": 22,
+        "pass_rate": 35.48
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Стефан Еден ДООЕЛ",
+      "stats": {
+        "total_attempts": 222,
+        "passed_attempts": 77,
+        "pass_rate": 34.68
+      },
+      "location": "Виница"
+    },
+    {
+      "school": "Безбедност Македонка",
+      "stats": {
+        "total_attempts": 189,
+        "passed_attempts": 65,
+        "pass_rate": 34.39
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "БМВВ-М3",
+      "stats": {
+        "total_attempts": 139,
+        "passed_attempts": 47,
+        "pass_rate": 33.81
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Сион",
+      "stats": {
+        "total_attempts": 181,
+        "passed_attempts": 61,
+        "pass_rate": 33.7
+      },
+      "location": "Радовиш"
+    },
+    {
+      "school": "СТАРТ ПРО-КРИФЦА",
+      "stats": {
+        "total_attempts": 36,
+        "passed_attempts": 12,
+        "pass_rate": 33.33
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "АМЗ-Гостивар",
+      "stats": {
+        "total_attempts": 108,
+        "passed_attempts": 36,
+        "pass_rate": 33.33
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "/",
+      "stats": {
+        "total_attempts": 24,
+        "passed_attempts": 8,
+        "pass_rate": 33.33
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Денс",
+      "stats": {
+        "total_attempts": 541,
+        "passed_attempts": 180,
+        "pass_rate": 33.27
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "15-ЈАНУАРИ",
+      "stats": {
+        "total_attempts": 415,
+        "passed_attempts": 138,
+        "pass_rate": 33.25
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "УНО-МИРАЛИМ",
+      "stats": {
+        "total_attempts": 457,
+        "passed_attempts": 151,
+        "pass_rate": 33.04
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Манасиеви",
+      "stats": {
+        "total_attempts": 173,
+        "passed_attempts": 57,
+        "pass_rate": 32.95
+      },
+      "location": "Радовиш"
+    },
+    {
+      "school": "Старт",
+      "stats": {
+        "total_attempts": 397,
+        "passed_attempts": 130,
+        "pass_rate": 32.75
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Орион-2001",
+      "stats": {
+        "total_attempts": 150,
+        "passed_attempts": 49,
+        "pass_rate": 32.67
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Моша Пијаде",
+      "stats": {
+        "total_attempts": 83,
+        "passed_attempts": 27,
+        "pass_rate": 32.53
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ДОВДСУ Авто Школа Формула еден ДОО",
+      "stats": {
+        "total_attempts": 227,
+        "passed_attempts": 73,
+        "pass_rate": 32.16
+      },
+      "location": "Македонски Брод"
+    },
+    {
+      "school": "Омега",
+      "stats": {
+        "total_attempts": 206,
+        "passed_attempts": 66,
+        "pass_rate": 32.04
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "РИЗИНОВ",
+      "stats": {
+        "total_attempts": 219,
+        "passed_attempts": 70,
+        "pass_rate": 31.96
+      },
+      "location": "Неготино"
+    },
+    {
+      "school": "Ера - Рели",
+      "stats": {
+        "total_attempts": 82,
+        "passed_attempts": 26,
+        "pass_rate": 31.71
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "АРТ",
+      "stats": {
+        "total_attempts": 409,
+        "passed_attempts": 128,
+        "pass_rate": 31.3
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Мекларен",
+      "stats": {
+        "total_attempts": 210,
+        "passed_attempts": 65,
+        "pass_rate": 30.95
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Огулин",
+      "stats": {
+        "total_attempts": 606,
+        "passed_attempts": 186,
+        "pass_rate": 30.69
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Ора 2013",
+      "stats": {
+        "total_attempts": 366,
+        "passed_attempts": 111,
+        "pass_rate": 30.33
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ШАР",
+      "stats": {
+        "total_attempts": 251,
+        "passed_attempts": 76,
+        "pass_rate": 30.28
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Ауто-Релакс",
+      "stats": {
+        "total_attempts": 113,
+        "passed_attempts": 34,
+        "pass_rate": 30.09
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "ГРАНД СЕМАФОР",
+      "stats": {
+        "total_attempts": 276,
+        "passed_attempts": 82,
+        "pass_rate": 29.71
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "УНИОН",
+      "stats": {
+        "total_attempts": 626,
+        "passed_attempts": 185,
+        "pass_rate": 29.55
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "АМД Тетово",
+      "stats": {
+        "total_attempts": 68,
+        "passed_attempts": 20,
+        "pass_rate": 29.41
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Флорида РП",
+      "stats": {
+        "total_attempts": 794,
+        "passed_attempts": 232,
+        "pass_rate": 29.22
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ФОХ-М",
+      "stats": {
+        "total_attempts": 158,
+        "passed_attempts": 46,
+        "pass_rate": 29.11
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Мартин",
+      "stats": {
+        "total_attempts": 605,
+        "passed_attempts": 176,
+        "pass_rate": 29.09
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "МБ",
+      "stats": {
+        "total_attempts": 191,
+        "passed_attempts": 55,
+        "pass_rate": 28.8
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ВЕЛКОМ",
+      "stats": {
+        "total_attempts": 108,
+        "passed_attempts": 31,
+        "pass_rate": 28.7
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Голф Д",
+      "stats": {
+        "total_attempts": 542,
+        "passed_attempts": 155,
+        "pass_rate": 28.6
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Сигнал-Вел",
+      "stats": {
+        "total_attempts": 91,
+        "passed_attempts": 26,
+        "pass_rate": 28.57
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "СИГНАЛ-ВЕЛ",
+      "stats": {
+        "total_attempts": 109,
+        "passed_attempts": 31,
+        "pass_rate": 28.44
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Европски Возач ДООЕЛ Скопје",
+      "stats": {
+        "total_attempts": 159,
+        "passed_attempts": 45,
+        "pass_rate": 28.3
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ХИТИ ЛЕССОНС",
+      "stats": {
+        "total_attempts": 132,
+        "passed_attempts": 37,
+        "pass_rate": 28.03
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "СТАРТ ЦБА",
+      "stats": {
+        "total_attempts": 780,
+        "passed_attempts": 217,
+        "pass_rate": 27.82
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Шкорпион",
+      "stats": {
+        "total_attempts": 728,
+        "passed_attempts": 202,
+        "pass_rate": 27.75
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Старт-Митев",
+      "stats": {
+        "total_attempts": 112,
+        "passed_attempts": 31,
+        "pass_rate": 27.68
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "3М",
+      "stats": {
+        "total_attempts": 269,
+        "passed_attempts": 74,
+        "pass_rate": 27.51
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Софи-Скул",
+      "stats": {
+        "total_attempts": 195,
+        "passed_attempts": 53,
+        "pass_rate": 27.18
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Зебра-Категорија АБЦ",
+      "stats": {
+        "total_attempts": 368,
+        "passed_attempts": 100,
+        "pass_rate": 27.17
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Зелен Сигнал",
+      "stats": {
+        "total_attempts": 538,
+        "passed_attempts": 146,
+        "pass_rate": 27.14
+      },
+      "location": "Кратово"
+    },
+    {
+      "school": "Дијана 95",
+      "stats": {
+        "total_attempts": 107,
+        "passed_attempts": 29,
+        "pass_rate": 27.1
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Монели-Мил",
+      "stats": {
+        "total_attempts": 194,
+        "passed_attempts": 52,
+        "pass_rate": 26.8
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "СВ-КОМЕРЦ",
+      "stats": {
+        "total_attempts": 430,
+        "passed_attempts": 114,
+        "pass_rate": 26.51
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Тимони Теута",
+      "stats": {
+        "total_attempts": 223,
+        "passed_attempts": 59,
+        "pass_rate": 26.46
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Бобием",
+      "stats": {
+        "total_attempts": 288,
+        "passed_attempts": 75,
+        "pass_rate": 26.04
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "АР-ДИ",
+      "stats": {
+        "total_attempts": 614,
+        "passed_attempts": 159,
+        "pass_rate": 25.9
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Брм брм Л",
+      "stats": {
+        "total_attempts": 143,
+        "passed_attempts": 37,
+        "pass_rate": 25.87
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Зебра АБЦ Дооел",
+      "stats": {
+        "total_attempts": 268,
+        "passed_attempts": 69,
+        "pass_rate": 25.75
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Мобилити Плус",
+      "stats": {
+        "total_attempts": 308,
+        "passed_attempts": 79,
+        "pass_rate": 25.65
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Кекец-О",
+      "stats": {
+        "total_attempts": 611,
+        "passed_attempts": 156,
+        "pass_rate": 25.53
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Банкина",
+      "stats": {
+        "total_attempts": 141,
+        "passed_attempts": 36,
+        "pass_rate": 25.53
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "АВТОМАК Гоце",
+      "stats": {
+        "total_attempts": 212,
+        "passed_attempts": 54,
+        "pass_rate": 25.47
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Мобилити плус",
+      "stats": {
+        "total_attempts": 80,
+        "passed_attempts": 20,
+        "pass_rate": 25.0
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Мобилити",
+      "stats": {
+        "total_attempts": 28,
+        "passed_attempts": 7,
+        "pass_rate": 25.0
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Идол",
+      "stats": {
+        "total_attempts": 501,
+        "passed_attempts": 125,
+        "pass_rate": 24.95
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "Шкорпион Обука",
+      "stats": {
+        "total_attempts": 305,
+        "passed_attempts": 76,
+        "pass_rate": 24.92
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Елита дривинг",
+      "stats": {
+        "total_attempts": 173,
+        "passed_attempts": 43,
+        "pass_rate": 24.86
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Бене Трејд 53",
+      "stats": {
+        "total_attempts": 141,
+        "passed_attempts": 35,
+        "pass_rate": 24.82
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ГТ СТАР",
+      "stats": {
+        "total_attempts": 258,
+        "passed_attempts": 64,
+        "pass_rate": 24.81
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Шкорпион С 2014",
+      "stats": {
+        "total_attempts": 101,
+        "passed_attempts": 25,
+        "pass_rate": 24.75
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Деива Обука 2001",
+      "stats": {
+        "total_attempts": 390,
+        "passed_attempts": 96,
+        "pass_rate": 24.62
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "СМАРТ",
+      "stats": {
+        "total_attempts": 364,
+        "passed_attempts": 88,
+        "pass_rate": 24.18
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Ел Хилал - Јуниор",
+      "stats": {
+        "total_attempts": 255,
+        "passed_attempts": 61,
+        "pass_rate": 23.92
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Тримоски",
+      "stats": {
+        "total_attempts": 477,
+        "passed_attempts": 113,
+        "pass_rate": 23.69
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Панда-ЛТД",
+      "stats": {
+        "total_attempts": 162,
+        "passed_attempts": 38,
+        "pass_rate": 23.46
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДЕЛТА",
+      "stats": {
+        "total_attempts": 239,
+        "passed_attempts": 56,
+        "pass_rate": 23.43
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Алфа 2018",
+      "stats": {
+        "total_attempts": 393,
+        "passed_attempts": 92,
+        "pass_rate": 23.41
+      },
+      "location": "Виница"
+    },
+    {
+      "school": "М 22 Маријана 2015",
+      "stats": {
+        "total_attempts": 94,
+        "passed_attempts": 22,
+        "pass_rate": 23.4
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Драјв Скул",
+      "stats": {
+        "total_attempts": 154,
+        "passed_attempts": 36,
+        "pass_rate": 23.38
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "АСУЦ Боро Петрушевски",
+      "stats": {
+        "total_attempts": 224,
+        "passed_attempts": 52,
+        "pass_rate": 23.21
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Болана ком",
+      "stats": {
+        "total_attempts": 272,
+        "passed_attempts": 63,
+        "pass_rate": 23.16
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Арт",
+      "stats": {
+        "total_attempts": 641,
+        "passed_attempts": 148,
+        "pass_rate": 23.09
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Струга-ком",
+      "stats": {
+        "total_attempts": 65,
+        "passed_attempts": 15,
+        "pass_rate": 23.08
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "АСХ Хирда",
+      "stats": {
+        "total_attempts": 1014,
+        "passed_attempts": 233,
+        "pass_rate": 22.98
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Ас-Коко",
+      "stats": {
+        "total_attempts": 359,
+        "passed_attempts": 82,
+        "pass_rate": 22.84
+      },
+      "location": "Кратово"
+    },
+    {
+      "school": "Шкорпион Едукација",
+      "stats": {
+        "total_attempts": 131,
+        "passed_attempts": 29,
+        "pass_rate": 22.14
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Виза",
+      "stats": {
+        "total_attempts": 161,
+        "passed_attempts": 35,
+        "pass_rate": 21.74
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Емилија",
+      "stats": {
+        "total_attempts": 125,
+        "passed_attempts": 26,
+        "pass_rate": 20.8
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "М22 М22 Дооел",
+      "stats": {
+        "total_attempts": 20,
+        "passed_attempts": 4,
+        "pass_rate": 20.0
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Сигурност ГТБ",
+      "stats": {
+        "total_attempts": 127,
+        "passed_attempts": 25,
+        "pass_rate": 19.69
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Деива",
+      "stats": {
+        "total_attempts": 49,
+        "passed_attempts": 9,
+        "pass_rate": 18.37
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Беко Бс Дооел",
+      "stats": {
+        "total_attempts": 95,
+        "passed_attempts": 17,
+        "pass_rate": 17.89
+      },
+      "location": "Скопје"
+    }
+  ],
+  "by_school_poligon": [
+    {
+      "school": "ДООЕЛ„ЗЕБРА ПЛУС“Прилеп",
+      "stats": {
+        "total_attempts": 29,
+        "passed_attempts": 27,
+        "pass_rate": 93.1
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "Тимони 2022",
+      "stats": {
+        "total_attempts": 102,
+        "passed_attempts": 94,
+        "pass_rate": 92.16
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Ролекс",
+      "stats": {
+        "total_attempts": 23,
+        "passed_attempts": 21,
+        "pass_rate": 91.3
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Визион- Идеал",
+      "stats": {
+        "total_attempts": 34,
+        "passed_attempts": 31,
+        "pass_rate": 91.18
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Рекета",
+      "stats": {
+        "total_attempts": 78,
+        "passed_attempts": 69,
+        "pass_rate": 88.46
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Прима",
+      "stats": {
+        "total_attempts": 140,
+        "passed_attempts": 123,
+        "pass_rate": 87.86
+      },
+      "location": "Гевгелија"
+    },
+    {
+      "school": "Даел",
+      "stats": {
+        "total_attempts": 40,
+        "passed_attempts": 35,
+        "pass_rate": 87.5
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "СТАРТ ЦБА",
+      "stats": {
+        "total_attempts": 230,
+        "passed_attempts": 201,
+        "pass_rate": 87.39
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Орион-НН",
+      "stats": {
+        "total_attempts": 78,
+        "passed_attempts": 68,
+        "pass_rate": 87.18
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Авто Школа Инструктори -Кичево",
+      "stats": {
+        "total_attempts": 39,
+        "passed_attempts": 34,
+        "pass_rate": 87.18
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Дарко -ТТ",
+      "stats": {
+        "total_attempts": 295,
+        "passed_attempts": 257,
+        "pass_rate": 87.12
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Паљош",
+      "stats": {
+        "total_attempts": 31,
+        "passed_attempts": 27,
+        "pass_rate": 87.1
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Ива Обука",
+      "stats": {
+        "total_attempts": 325,
+        "passed_attempts": 283,
+        "pass_rate": 87.08
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Сигнал -М",
+      "stats": {
+        "total_attempts": 134,
+        "passed_attempts": 116,
+        "pass_rate": 86.57
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "БМВВ-М3",
+      "stats": {
+        "total_attempts": 44,
+        "passed_attempts": 38,
+        "pass_rate": 86.36
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ВЕЛКОМ",
+      "stats": {
+        "total_attempts": 36,
+        "passed_attempts": 31,
+        "pass_rate": 86.11
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Шкорпион С 2014",
+      "stats": {
+        "total_attempts": 28,
+        "passed_attempts": 24,
+        "pass_rate": 85.71
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "СТАРС ИНЖЕНЕРИНГ",
+      "stats": {
+        "total_attempts": 255,
+        "passed_attempts": 218,
+        "pass_rate": 85.49
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Сив",
+      "stats": {
+        "total_attempts": 136,
+        "passed_attempts": 116,
+        "pass_rate": 85.29
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Викторија",
+      "stats": {
+        "total_attempts": 107,
+        "passed_attempts": 91,
+        "pass_rate": 85.05
+      },
+      "location": "Крива Паланка"
+    },
+    {
+      "school": "Даел Транс",
+      "stats": {
+        "total_attempts": 65,
+        "passed_attempts": 55,
+        "pass_rate": 84.62
+      },
+      "location": "Берово"
+    },
+    {
+      "school": "Зебра 2013",
+      "stats": {
+        "total_attempts": 246,
+        "passed_attempts": 208,
+        "pass_rate": 84.55
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Монели-Мил",
+      "stats": {
+        "total_attempts": 49,
+        "passed_attempts": 41,
+        "pass_rate": 83.67
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Рудина",
+      "stats": {
+        "total_attempts": 55,
+        "passed_attempts": 46,
+        "pass_rate": 83.64
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Мекларен",
+      "stats": {
+        "total_attempts": 72,
+        "passed_attempts": 60,
+        "pass_rate": 83.33
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Блег",
+      "stats": {
+        "total_attempts": 179,
+        "passed_attempts": 149,
+        "pass_rate": 83.24
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Шкорпион Обука",
+      "stats": {
+        "total_attempts": 77,
+        "passed_attempts": 64,
+        "pass_rate": 83.12
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Јоле",
+      "stats": {
+        "total_attempts": 163,
+        "passed_attempts": 135,
+        "pass_rate": 82.82
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Сион",
+      "stats": {
+        "total_attempts": 58,
+        "passed_attempts": 48,
+        "pass_rate": 82.76
+      },
+      "location": "Радовиш"
+    },
+    {
+      "school": "АМЗ-Гостивар",
+      "stats": {
+        "total_attempts": 28,
+        "passed_attempts": 23,
+        "pass_rate": 82.14
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Омега",
+      "stats": {
+        "total_attempts": 66,
+        "passed_attempts": 54,
+        "pass_rate": 81.82
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "АРТ",
+      "stats": {
+        "total_attempts": 115,
+        "passed_attempts": 94,
+        "pass_rate": 81.74
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Ацико Ас",
+      "stats": {
+        "total_attempts": 85,
+        "passed_attempts": 69,
+        "pass_rate": 81.18
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "AШ Семафори 2022",
+      "stats": {
+        "total_attempts": 191,
+        "passed_attempts": 155,
+        "pass_rate": 81.15
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "ДПТУ „СЕМАФОР НОВА“ ДООЕЛ Прилеп",
+      "stats": {
+        "total_attempts": 214,
+        "passed_attempts": 173,
+        "pass_rate": 80.84
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "ДТГМПУ„МОТО-РЕЛИ“увоз-извоз Битола ДОО",
+      "stats": {
+        "total_attempts": 82,
+        "passed_attempts": 66,
+        "pass_rate": 80.49
+      },
+      "location": "Демир Хисар"
+    },
+    {
+      "school": "Флорида РП",
+      "stats": {
+        "total_attempts": 274,
+        "passed_attempts": 220,
+        "pass_rate": 80.29
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Алфа 2018",
+      "stats": {
+        "total_attempts": 137,
+        "passed_attempts": 110,
+        "pass_rate": 80.29
+      },
+      "location": "Берово"
+    },
+    {
+      "school": "Тим",
+      "stats": {
+        "total_attempts": 130,
+        "passed_attempts": 104,
+        "pass_rate": 80.0
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "ДЕЛТА",
+      "stats": {
+        "total_attempts": 80,
+        "passed_attempts": 64,
+        "pass_rate": 80.0
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Деива Обука 2001",
+      "stats": {
+        "total_attempts": 103,
+        "passed_attempts": 82,
+        "pass_rate": 79.61
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Бобием",
+      "stats": {
+        "total_attempts": 87,
+        "passed_attempts": 69,
+        "pass_rate": 79.31
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Никола Шест",
+      "stats": {
+        "total_attempts": 159,
+        "passed_attempts": 126,
+        "pass_rate": 79.25
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Зебра 207",
+      "stats": {
+        "total_attempts": 120,
+        "passed_attempts": 95,
+        "pass_rate": 79.17
+      },
+      "location": "Виница"
+    },
+    {
+      "school": "Деива",
+      "stats": {
+        "total_attempts": 24,
+        "passed_attempts": 19,
+        "pass_rate": 79.17
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "АСУЦ Боро Петрушевски",
+      "stats": {
+        "total_attempts": 90,
+        "passed_attempts": 71,
+        "pass_rate": 78.89
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДПТУ„Авто Школа Прима 2019 ДООЕЛ",
+      "stats": {
+        "total_attempts": 71,
+        "passed_attempts": 56,
+        "pass_rate": 78.87
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "АСХ Хирда",
+      "stats": {
+        "total_attempts": 329,
+        "passed_attempts": 259,
+        "pass_rate": 78.72
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ГРАНД СЕМАФОР",
+      "stats": {
+        "total_attempts": 89,
+        "passed_attempts": 70,
+        "pass_rate": 78.65
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Ико",
+      "stats": {
+        "total_attempts": 98,
+        "passed_attempts": 77,
+        "pass_rate": 78.57
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "АМД Тетово",
+      "stats": {
+        "total_attempts": 28,
+        "passed_attempts": 22,
+        "pass_rate": 78.57
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ДООЕЛ„05 СТАРТ“ Битола",
+      "stats": {
+        "total_attempts": 199,
+        "passed_attempts": 156,
+        "pass_rate": 78.39
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Огулин",
+      "stats": {
+        "total_attempts": 221,
+        "passed_attempts": 173,
+        "pass_rate": 78.28
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Брм брм Л",
+      "stats": {
+        "total_attempts": 46,
+        "passed_attempts": 36,
+        "pass_rate": 78.26
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Никола Карев",
+      "stats": {
+        "total_attempts": 27,
+        "passed_attempts": 21,
+        "pass_rate": 77.78
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "ХИТИ ЛЕССОНС",
+      "stats": {
+        "total_attempts": 49,
+        "passed_attempts": 38,
+        "pass_rate": 77.55
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Болана ком",
+      "stats": {
+        "total_attempts": 98,
+        "passed_attempts": 76,
+        "pass_rate": 77.55
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Добри Возачи",
+      "stats": {
+        "total_attempts": 61,
+        "passed_attempts": 47,
+        "pass_rate": 77.05
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "ЈАНА ДООЕЛ",
+      "stats": {
+        "total_attempts": 60,
+        "passed_attempts": 46,
+        "pass_rate": 76.67
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "АВТОМАК Гоце",
+      "stats": {
+        "total_attempts": 72,
+        "passed_attempts": 55,
+        "pass_rate": 76.39
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Стил",
+      "stats": {
+        "total_attempts": 84,
+        "passed_attempts": 64,
+        "pass_rate": 76.19
+      },
+      "location": "Гевгелија"
+    },
+    {
+      "school": "Идол",
+      "stats": {
+        "total_attempts": 151,
+        "passed_attempts": 115,
+        "pass_rate": 76.16
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Зелен Сигнал ЗВД ДООЕЛ",
+      "stats": {
+        "total_attempts": 155,
+        "passed_attempts": 118,
+        "pass_rate": 76.13
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Контакт дооел",
+      "stats": {
+        "total_attempts": 92,
+        "passed_attempts": 70,
+        "pass_rate": 76.09
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Стартпром Плус",
+      "stats": {
+        "total_attempts": 50,
+        "passed_attempts": 38,
+        "pass_rate": 76.0
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "А.Ш„АМД-ПРИЛЕПЕЦ“ Прилеп",
+      "stats": {
+        "total_attempts": 95,
+        "passed_attempts": 72,
+        "pass_rate": 75.79
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "АР-ДИ",
+      "stats": {
+        "total_attempts": 193,
+        "passed_attempts": 146,
+        "pass_rate": 75.65
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДИТИ-КО 2020",
+      "stats": {
+        "total_attempts": 225,
+        "passed_attempts": 170,
+        "pass_rate": 75.56
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "Теон",
+      "stats": {
+        "total_attempts": 49,
+        "passed_attempts": 37,
+        "pass_rate": 75.51
+      },
+      "location": "Мак. Каменица"
+    },
+    {
+      "school": "Арт",
+      "stats": {
+        "total_attempts": 224,
+        "passed_attempts": 169,
+        "pass_rate": 75.45
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Дити-KO",
+      "stats": {
+        "total_attempts": 20,
+        "passed_attempts": 15,
+        "pass_rate": 75.0
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "УНИОН",
+      "stats": {
+        "total_attempts": 260,
+        "passed_attempts": 194,
+        "pass_rate": 74.62
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Банкина",
+      "stats": {
+        "total_attempts": 51,
+        "passed_attempts": 38,
+        "pass_rate": 74.51
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "УНО-МИРАЛИМ",
+      "stats": {
+        "total_attempts": 196,
+        "passed_attempts": 146,
+        "pass_rate": 74.49
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Шкорпион",
+      "stats": {
+        "total_attempts": 219,
+        "passed_attempts": 163,
+        "pass_rate": 74.43
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Даниел-Ман",
+      "stats": {
+        "total_attempts": 113,
+        "passed_attempts": 84,
+        "pass_rate": 74.34
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Кекец-О",
+      "stats": {
+        "total_attempts": 183,
+        "passed_attempts": 136,
+        "pass_rate": 74.32
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Виза",
+      "stats": {
+        "total_attempts": 54,
+        "passed_attempts": 40,
+        "pass_rate": 74.07
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Книпром",
+      "stats": {
+        "total_attempts": 150,
+        "passed_attempts": 111,
+        "pass_rate": 74.0
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Мобилити Плус",
+      "stats": {
+        "total_attempts": 103,
+        "passed_attempts": 76,
+        "pass_rate": 73.79
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Ас-Коко",
+      "stats": {
+        "total_attempts": 122,
+        "passed_attempts": 90,
+        "pass_rate": 73.77
+      },
+      "location": "Кратово"
+    },
+    {
+      "school": "Тримоски",
+      "stats": {
+        "total_attempts": 197,
+        "passed_attempts": 145,
+        "pass_rate": 73.6
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Фи-бо Драјв",
+      "stats": {
+        "total_attempts": 79,
+        "passed_attempts": 58,
+        "pass_rate": 73.42
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Мартин",
+      "stats": {
+        "total_attempts": 188,
+        "passed_attempts": 138,
+        "pass_rate": 73.4
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Јане 2021",
+      "stats": {
+        "total_attempts": 75,
+        "passed_attempts": 55,
+        "pass_rate": 73.33
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Галеб",
+      "stats": {
+        "total_attempts": 202,
+        "passed_attempts": 148,
+        "pass_rate": 73.27
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "МБ",
+      "stats": {
+        "total_attempts": 86,
+        "passed_attempts": 63,
+        "pass_rate": 73.26
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Моша Пијаде",
+      "stats": {
+        "total_attempts": 41,
+        "passed_attempts": 30,
+        "pass_rate": 73.17
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Европски Возач ДООЕЛ Скопје",
+      "stats": {
+        "total_attempts": 41,
+        "passed_attempts": 30,
+        "pass_rate": 73.17
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Бене Трејд 53",
+      "stats": {
+        "total_attempts": 41,
+        "passed_attempts": 30,
+        "pass_rate": 73.17
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ФОХ-М",
+      "stats": {
+        "total_attempts": 63,
+        "passed_attempts": 46,
+        "pass_rate": 73.02
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Голф Д",
+      "stats": {
+        "total_attempts": 255,
+        "passed_attempts": 186,
+        "pass_rate": 72.94
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Сити Старт",
+      "stats": {
+        "total_attempts": 44,
+        "passed_attempts": 32,
+        "pass_rate": 72.73
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "ДТУ„ЗЕБРА“ДООЕЛ Битола",
+      "stats": {
+        "total_attempts": 80,
+        "passed_attempts": 58,
+        "pass_rate": 72.5
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "СТАРТ-ЕДЕН ДООЕЛ ПРИЛЕП",
+      "stats": {
+        "total_attempts": 225,
+        "passed_attempts": 163,
+        "pass_rate": 72.44
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "Беко Бс Дооел",
+      "stats": {
+        "total_attempts": 54,
+        "passed_attempts": 39,
+        "pass_rate": 72.22
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "15-ЈАНУАРИ",
+      "stats": {
+        "total_attempts": 122,
+        "passed_attempts": 88,
+        "pass_rate": 72.13
+      },
+      "location": "Неготино"
+    },
+    {
+      "school": "Софи-Скул",
+      "stats": {
+        "total_attempts": 57,
+        "passed_attempts": 41,
+        "pass_rate": 71.93
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Манасиеви",
+      "stats": {
+        "total_attempts": 46,
+        "passed_attempts": 33,
+        "pass_rate": 71.74
+      },
+      "location": "Радовиш"
+    },
+    {
+      "school": "Ел Хилал - Јуниор",
+      "stats": {
+        "total_attempts": 95,
+        "passed_attempts": 68,
+        "pass_rate": 71.58
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Сигурност ГТБ",
+      "stats": {
+        "total_attempts": 35,
+        "passed_attempts": 25,
+        "pass_rate": 71.43
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ШАР",
+      "stats": {
+        "total_attempts": 124,
+        "passed_attempts": 88,
+        "pass_rate": 70.97
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Шкорпион Едукација",
+      "stats": {
+        "total_attempts": 41,
+        "passed_attempts": 29,
+        "pass_rate": 70.73
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Старт",
+      "stats": {
+        "total_attempts": 163,
+        "passed_attempts": 115,
+        "pass_rate": 70.55
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "АВТО ШКОЛА ГОЛД Пехчево",
+      "stats": {
+        "total_attempts": 27,
+        "passed_attempts": 19,
+        "pass_rate": 70.37
+      },
+      "location": "Берово"
+    },
+    {
+      "school": "СПИД 2016",
+      "stats": {
+        "total_attempts": 131,
+        "passed_attempts": 91,
+        "pass_rate": 69.47
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Аполо",
+      "stats": {
+        "total_attempts": 52,
+        "passed_attempts": 36,
+        "pass_rate": 69.23
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Емилија",
+      "stats": {
+        "total_attempts": 42,
+        "passed_attempts": 29,
+        "pass_rate": 69.05
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Драјв Скул",
+      "stats": {
+        "total_attempts": 51,
+        "passed_attempts": 35,
+        "pass_rate": 68.63
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДОВДСУ Авто Школа Формула еден ДОО",
+      "stats": {
+        "total_attempts": 124,
+        "passed_attempts": 85,
+        "pass_rate": 68.55
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "Ера - Рели",
+      "stats": {
+        "total_attempts": 22,
+        "passed_attempts": 15,
+        "pass_rate": 68.18
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Безбедност Македонка",
+      "stats": {
+        "total_attempts": 78,
+        "passed_attempts": 53,
+        "pass_rate": 67.95
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Стефан Еден ДООЕЛ",
+      "stats": {
+        "total_attempts": 108,
+        "passed_attempts": 73,
+        "pass_rate": 67.59
+      },
+      "location": "Виница"
+    },
+    {
+      "school": "Ора 2013",
+      "stats": {
+        "total_attempts": 178,
+        "passed_attempts": 118,
+        "pass_rate": 66.29
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Сигнал-Вел",
+      "stats": {
+        "total_attempts": 38,
+        "passed_attempts": 25,
+        "pass_rate": 65.79
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "ДТПУ Тоде Петковски„ШИШКА“увоз-извоз Битола",
+      "stats": {
+        "total_attempts": 49,
+        "passed_attempts": 32,
+        "pass_rate": 65.31
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Дејан",
+      "stats": {
+        "total_attempts": 216,
+        "passed_attempts": 141,
+        "pass_rate": 65.28
+      },
+      "location": "Крива Паланка"
+    },
+    {
+      "school": "М 22 Маријана 2015",
+      "stats": {
+        "total_attempts": 23,
+        "passed_attempts": 15,
+        "pass_rate": 65.22
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Зелен Сигнал",
+      "stats": {
+        "total_attempts": 223,
+        "passed_attempts": 145,
+        "pass_rate": 65.02
+      },
+      "location": "Кратово"
+    },
+    {
+      "school": "Моменто",
+      "stats": {
+        "total_attempts": 180,
+        "passed_attempts": 117,
+        "pass_rate": 65.0
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Тимони Теута",
+      "stats": {
+        "total_attempts": 107,
+        "passed_attempts": 69,
+        "pass_rate": 64.49
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "СВ-КОМЕРЦ",
+      "stats": {
+        "total_attempts": 200,
+        "passed_attempts": 128,
+        "pass_rate": 64.0
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Елита дривинг",
+      "stats": {
+        "total_attempts": 61,
+        "passed_attempts": 39,
+        "pass_rate": 63.93
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Зебра-Категорија АБЦ",
+      "stats": {
+        "total_attempts": 180,
+        "passed_attempts": 115,
+        "pass_rate": 63.89
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Слоби ДООЕЛ",
+      "stats": {
+        "total_attempts": 47,
+        "passed_attempts": 30,
+        "pass_rate": 63.83
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "СМАРТ",
+      "stats": {
+        "total_attempts": 118,
+        "passed_attempts": 75,
+        "pass_rate": 63.56
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Југо Фер",
+      "stats": {
+        "total_attempts": 717,
+        "passed_attempts": 455,
+        "pass_rate": 63.46
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "СТАРТ 007 ДООЕЛ",
+      "stats": {
+        "total_attempts": 35,
+        "passed_attempts": 22,
+        "pass_rate": 62.86
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Зебра АБЦ Дооел",
+      "stats": {
+        "total_attempts": 110,
+        "passed_attempts": 69,
+        "pass_rate": 62.73
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДПТУ„РАН ПЛУС“ДООЕЛ увоз-извоз Битола",
+      "stats": {
+        "total_attempts": 126,
+        "passed_attempts": 78,
+        "pass_rate": 61.9
+      },
+      "location": "Крушево"
+    },
+    {
+      "school": "Елиго",
+      "stats": {
+        "total_attempts": 97,
+        "passed_attempts": 60,
+        "pass_rate": 61.86
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Панда-ЛТД",
+      "stats": {
+        "total_attempts": 57,
+        "passed_attempts": 35,
+        "pass_rate": 61.4
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "АМД",
+      "stats": {
+        "total_attempts": 51,
+        "passed_attempts": 31,
+        "pass_rate": 60.78
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Старт-Митев",
+      "stats": {
+        "total_attempts": 57,
+        "passed_attempts": 34,
+        "pass_rate": 59.65
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "ДОВУ„АВТО ШКОЛА“ Здружение на возачи Ресен",
+      "stats": {
+        "total_attempts": 57,
+        "passed_attempts": 34,
+        "pass_rate": 59.65
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "АЛФ-РД",
+      "stats": {
+        "total_attempts": 254,
+        "passed_attempts": 151,
+        "pass_rate": 59.45
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "непозната",
+      "stats": {
+        "total_attempts": 58,
+        "passed_attempts": 34,
+        "pass_rate": 58.62
+      },
+      "location": "Кратово"
+    },
+    {
+      "school": "Орион-2001",
+      "stats": {
+        "total_attempts": 87,
+        "passed_attempts": 51,
+        "pass_rate": 58.62
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Дијана 95",
+      "stats": {
+        "total_attempts": 58,
+        "passed_attempts": 34,
+        "pass_rate": 58.62
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Ангела",
+      "stats": {
+        "total_attempts": 36,
+        "passed_attempts": 21,
+        "pass_rate": 58.33
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "3М",
+      "stats": {
+        "total_attempts": 152,
+        "passed_attempts": 88,
+        "pass_rate": 57.89
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "СТАРТ ПРО-КРИФЦА",
+      "stats": {
+        "total_attempts": 25,
+        "passed_attempts": 14,
+        "pass_rate": 56.0
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "Ауто-Релакс",
+      "stats": {
+        "total_attempts": 59,
+        "passed_attempts": 33,
+        "pass_rate": 55.93
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "ГТ СТАР",
+      "stats": {
+        "total_attempts": 129,
+        "passed_attempts": 71,
+        "pass_rate": 55.04
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Болид плус доо",
+      "stats": {
+        "total_attempts": 91,
+        "passed_attempts": 50,
+        "pass_rate": 54.95
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Денс",
+      "stats": {
+        "total_attempts": 325,
+        "passed_attempts": 163,
+        "pass_rate": 50.15
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "ДООЕЛ„АВТО ОЛИ АС-РЕСЕН“ Ресен",
+      "stats": {
+        "total_attempts": 67,
+        "passed_attempts": 32,
+        "pass_rate": 47.76
+      },
+      "location": "Ресен"
+    },
+    {
+      "school": "РИЗИНОВ",
+      "stats": {
+        "total_attempts": 150,
+        "passed_attempts": 71,
+        "pass_rate": 47.33
+      },
+      "location": "Демир Капија"
+    },
+    {
+      "school": "СИГНАЛ-ВЕЛ",
+      "stats": {
+        "total_attempts": 90,
+        "passed_attempts": 36,
+        "pass_rate": 40.0
+      },
+      "location": "Велес"
+    }
+  ],
+  "by_school_teorija": [
+    {
+      "school": "Безбедност Македонка",
+      "stats": {
+        "total_attempts": 61,
+        "passed_attempts": 54,
+        "pass_rate": 88.52
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Фи-бо Драјв",
+      "stats": {
+        "total_attempts": 77,
+        "passed_attempts": 65,
+        "pass_rate": 84.42
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Алфа 2018",
+      "stats": {
+        "total_attempts": 122,
+        "passed_attempts": 102,
+        "pass_rate": 83.61
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Зебра 207",
+      "stats": {
+        "total_attempts": 121,
+        "passed_attempts": 101,
+        "pass_rate": 83.47
+      },
+      "location": "Виница"
+    },
+    {
+      "school": "Прима",
+      "stats": {
+        "total_attempts": 169,
+        "passed_attempts": 140,
+        "pass_rate": 82.84
+      },
+      "location": "Гевгелија"
+    },
+    {
+      "school": "ДПТУ„РАН ПЛУС“ДООЕЛ увоз-извоз Битола",
+      "stats": {
+        "total_attempts": 105,
+        "passed_attempts": 86,
+        "pass_rate": 81.9
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "АВТО ШКОЛА ГОЛД Пехчево",
+      "stats": {
+        "total_attempts": 21,
+        "passed_attempts": 17,
+        "pass_rate": 80.95
+      },
+      "location": "Пехчево"
+    },
+    {
+      "school": "Ролекс",
+      "stats": {
+        "total_attempts": 26,
+        "passed_attempts": 21,
+        "pass_rate": 80.77
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Мобилити плус",
+      "stats": {
+        "total_attempts": 26,
+        "passed_attempts": 21,
+        "pass_rate": 80.77
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДТУ„ЗЕБРА“ДООЕЛ Битола",
+      "stats": {
+        "total_attempts": 88,
+        "passed_attempts": 71,
+        "pass_rate": 80.68
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "СТАРТ 007 ДООЕЛ",
+      "stats": {
+        "total_attempts": 31,
+        "passed_attempts": 25,
+        "pass_rate": 80.65
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Болид плус доо",
+      "stats": {
+        "total_attempts": 67,
+        "passed_attempts": 54,
+        "pass_rate": 80.6
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Зелен Сигнал ЗВД ДООЕЛ",
+      "stats": {
+        "total_attempts": 141,
+        "passed_attempts": 113,
+        "pass_rate": 80.14
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Блег",
+      "stats": {
+        "total_attempts": 196,
+        "passed_attempts": 157,
+        "pass_rate": 80.1
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "АМД",
+      "stats": {
+        "total_attempts": 45,
+        "passed_attempts": 36,
+        "pass_rate": 80.0
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Мобилити Плус",
+      "stats": {
+        "total_attempts": 98,
+        "passed_attempts": 78,
+        "pass_rate": 79.59
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Елиго",
+      "stats": {
+        "total_attempts": 77,
+        "passed_attempts": 61,
+        "pass_rate": 79.22
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Стефан Еден ДООЕЛ",
+      "stats": {
+        "total_attempts": 109,
+        "passed_attempts": 86,
+        "pass_rate": 78.9
+      },
+      "location": "Виница"
+    },
+    {
+      "school": "Стартпром Плус",
+      "stats": {
+        "total_attempts": 47,
+        "passed_attempts": 37,
+        "pass_rate": 78.72
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Даниел-Ман",
+      "stats": {
+        "total_attempts": 107,
+        "passed_attempts": 84,
+        "pass_rate": 78.5
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Викторија",
+      "stats": {
+        "total_attempts": 91,
+        "passed_attempts": 71,
+        "pass_rate": 78.02
+      },
+      "location": "Кратово"
+    },
+    {
+      "school": "ДПТУ „СЕМАФОР НОВА“ ДООЕЛ Прилеп",
+      "stats": {
+        "total_attempts": 211,
+        "passed_attempts": 163,
+        "pass_rate": 77.25
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "СПИД 2016",
+      "stats": {
+        "total_attempts": 114,
+        "passed_attempts": 88,
+        "pass_rate": 77.19
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Сигнал -М",
+      "stats": {
+        "total_attempts": 144,
+        "passed_attempts": 111,
+        "pass_rate": 77.08
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Тим",
+      "stats": {
+        "total_attempts": 122,
+        "passed_attempts": 94,
+        "pass_rate": 77.05
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "ДТГМПУ„МОТО-РЕЛИ“увоз-извоз Битола ДОО",
+      "stats": {
+        "total_attempts": 104,
+        "passed_attempts": 80,
+        "pass_rate": 76.92
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "Бобием",
+      "stats": {
+        "total_attempts": 78,
+        "passed_attempts": 60,
+        "pass_rate": 76.92
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Книпром",
+      "stats": {
+        "total_attempts": 160,
+        "passed_attempts": 123,
+        "pass_rate": 76.88
+      },
+      "location": "Штип"
+    },
+    {
+      "school": "Јане 2021",
+      "stats": {
+        "total_attempts": 43,
+        "passed_attempts": 33,
+        "pass_rate": 76.74
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Зебра 2013",
+      "stats": {
+        "total_attempts": 281,
+        "passed_attempts": 215,
+        "pass_rate": 76.51
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Деива",
+      "stats": {
+        "total_attempts": 34,
+        "passed_attempts": 26,
+        "pass_rate": 76.47
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Дејан",
+      "stats": {
+        "total_attempts": 164,
+        "passed_attempts": 125,
+        "pass_rate": 76.22
+      },
+      "location": "Крива Паланка"
+    },
+    {
+      "school": "ДООЕЛ„05 СТАРТ“ Битола",
+      "stats": {
+        "total_attempts": 205,
+        "passed_attempts": 156,
+        "pass_rate": 76.1
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "ДОВУ„АВТО ШКОЛА“ Здружение на возачи Ресен",
+      "stats": {
+        "total_attempts": 46,
+        "passed_attempts": 35,
+        "pass_rate": 76.09
+      },
+      "location": "Ресен"
+    },
+    {
+      "school": "Голф Д",
+      "stats": {
+        "total_attempts": 238,
+        "passed_attempts": 181,
+        "pass_rate": 76.05
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "СИГНАЛ-ВЕЛ",
+      "stats": {
+        "total_attempts": 53,
+        "passed_attempts": 40,
+        "pass_rate": 75.47
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Јоле",
+      "stats": {
+        "total_attempts": 183,
+        "passed_attempts": 138,
+        "pass_rate": 75.41
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Сив",
+      "stats": {
+        "total_attempts": 146,
+        "passed_attempts": 110,
+        "pass_rate": 75.34
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "ФОХ-М",
+      "stats": {
+        "total_attempts": 72,
+        "passed_attempts": 54,
+        "pass_rate": 75.0
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Банкина",
+      "stats": {
+        "total_attempts": 56,
+        "passed_attempts": 42,
+        "pass_rate": 75.0
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Мартин",
+      "stats": {
+        "total_attempts": 214,
+        "passed_attempts": 160,
+        "pass_rate": 74.77
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Денс",
+      "stats": {
+        "total_attempts": 251,
+        "passed_attempts": 187,
+        "pass_rate": 74.5
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Контакт дооел",
+      "stats": {
+        "total_attempts": 90,
+        "passed_attempts": 67,
+        "pass_rate": 74.44
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "СТАРТ ПРО-КРИФЦА",
+      "stats": {
+        "total_attempts": 27,
+        "passed_attempts": 20,
+        "pass_rate": 74.07
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "Деива Обука 2001",
+      "stats": {
+        "total_attempts": 118,
+        "passed_attempts": 87,
+        "pass_rate": 73.73
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Кекец-О",
+      "stats": {
+        "total_attempts": 182,
+        "passed_attempts": 134,
+        "pass_rate": 73.63
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "Софи-Скул",
+      "stats": {
+        "total_attempts": 72,
+        "passed_attempts": 53,
+        "pass_rate": 73.61
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Шкорпион Едукација",
+      "stats": {
+        "total_attempts": 30,
+        "passed_attempts": 22,
+        "pass_rate": 73.33
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДООЕЛ„ЗЕБРА ПЛУС“Прилеп",
+      "stats": {
+        "total_attempts": 30,
+        "passed_attempts": 22,
+        "pass_rate": 73.33
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "Тимони 2022",
+      "stats": {
+        "total_attempts": 138,
+        "passed_attempts": 101,
+        "pass_rate": 73.19
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Дарко -ТТ",
+      "stats": {
+        "total_attempts": 363,
+        "passed_attempts": 265,
+        "pass_rate": 73.0
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Ико",
+      "stats": {
+        "total_attempts": 100,
+        "passed_attempts": 73,
+        "pass_rate": 73.0
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Даел",
+      "stats": {
+        "total_attempts": 48,
+        "passed_attempts": 35,
+        "pass_rate": 72.92
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "АВТОМАК Гоце",
+      "stats": {
+        "total_attempts": 70,
+        "passed_attempts": 51,
+        "pass_rate": 72.86
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Орион-2001",
+      "stats": {
+        "total_attempts": 77,
+        "passed_attempts": 56,
+        "pass_rate": 72.73
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Бене Трејд 53",
+      "stats": {
+        "total_attempts": 40,
+        "passed_attempts": 29,
+        "pass_rate": 72.5
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Теон",
+      "stats": {
+        "total_attempts": 65,
+        "passed_attempts": 47,
+        "pass_rate": 72.31
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "Тримоски",
+      "stats": {
+        "total_attempts": 187,
+        "passed_attempts": 135,
+        "pass_rate": 72.19
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Старт",
+      "stats": {
+        "total_attempts": 172,
+        "passed_attempts": 124,
+        "pass_rate": 72.09
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Сити Старт",
+      "stats": {
+        "total_attempts": 43,
+        "passed_attempts": 31,
+        "pass_rate": 72.09
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Добри Возачи",
+      "stats": {
+        "total_attempts": 75,
+        "passed_attempts": 54,
+        "pass_rate": 72.0
+      },
+      "location": "Свети Николе"
+    },
+    {
+      "school": "Рудина",
+      "stats": {
+        "total_attempts": 64,
+        "passed_attempts": 46,
+        "pass_rate": 71.88
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "Виза",
+      "stats": {
+        "total_attempts": 46,
+        "passed_attempts": 33,
+        "pass_rate": 71.74
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "А.Ш„АМД-ПРИЛЕПЕЦ“ Прилеп",
+      "stats": {
+        "total_attempts": 119,
+        "passed_attempts": 85,
+        "pass_rate": 71.43
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "ЈАНА ДООЕЛ",
+      "stats": {
+        "total_attempts": 77,
+        "passed_attempts": 55,
+        "pass_rate": 71.43
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "15-ЈАНУАРИ",
+      "stats": {
+        "total_attempts": 139,
+        "passed_attempts": 99,
+        "pass_rate": 71.22
+      },
+      "location": "Демир Капија"
+    },
+    {
+      "school": "3М",
+      "stats": {
+        "total_attempts": 132,
+        "passed_attempts": 94,
+        "pass_rate": 71.21
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Сигнал-Вел",
+      "stats": {
+        "total_attempts": 38,
+        "passed_attempts": 27,
+        "pass_rate": 71.05
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "СТАРС ИНЖЕНЕРИНГ",
+      "stats": {
+        "total_attempts": 314,
+        "passed_attempts": 223,
+        "pass_rate": 71.02
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "Ацико Ас",
+      "stats": {
+        "total_attempts": 79,
+        "passed_attempts": 56,
+        "pass_rate": 70.89
+      },
+      "location": "Мак. Каменица"
+    },
+    {
+      "school": "Даел Транс",
+      "stats": {
+        "total_attempts": 68,
+        "passed_attempts": 48,
+        "pass_rate": 70.59
+      },
+      "location": "Берово"
+    },
+    {
+      "school": "AШ Семафори 2022",
+      "stats": {
+        "total_attempts": 223,
+        "passed_attempts": 157,
+        "pass_rate": 70.4
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "ГТ СТАР",
+      "stats": {
+        "total_attempts": 101,
+        "passed_attempts": 71,
+        "pass_rate": 70.3
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ДПТУ„Авто Школа Прима 2019 ДООЕЛ",
+      "stats": {
+        "total_attempts": 84,
+        "passed_attempts": 59,
+        "pass_rate": 70.24
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "Авто Школа Инструктори -Кичево",
+      "stats": {
+        "total_attempts": 50,
+        "passed_attempts": 35,
+        "pass_rate": 70.0
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "АЛФ-РД",
+      "stats": {
+        "total_attempts": 228,
+        "passed_attempts": 159,
+        "pass_rate": 69.74
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "Никола Шест",
+      "stats": {
+        "total_attempts": 175,
+        "passed_attempts": 122,
+        "pass_rate": 69.71
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "ВЕЛКОМ",
+      "stats": {
+        "total_attempts": 46,
+        "passed_attempts": 32,
+        "pass_rate": 69.57
+      },
+      "location": "Кавадарци"
+    },
+    {
+      "school": "ДТПУ Тоде Петковски„ШИШКА“увоз-извоз Битола",
+      "stats": {
+        "total_attempts": 59,
+        "passed_attempts": 41,
+        "pass_rate": 69.49
+      },
+      "location": "Битола"
+    },
+    {
+      "school": "ДОВДСУ Авто Школа Формула еден ДОО",
+      "stats": {
+        "total_attempts": 130,
+        "passed_attempts": 90,
+        "pass_rate": 69.23
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "АСУЦ Боро Петрушевски",
+      "stats": {
+        "total_attempts": 113,
+        "passed_attempts": 78,
+        "pass_rate": 69.03
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Шкорпион",
+      "stats": {
+        "total_attempts": 258,
+        "passed_attempts": 178,
+        "pass_rate": 68.99
+      },
+      "location": "Пробиштип"
+    },
+    {
+      "school": "Манасиеви",
+      "stats": {
+        "total_attempts": 54,
+        "passed_attempts": 37,
+        "pass_rate": 68.52
+      },
+      "location": "Радовиш"
+    },
+    {
+      "school": "Ива Обука",
+      "stats": {
+        "total_attempts": 431,
+        "passed_attempts": 294,
+        "pass_rate": 68.21
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Ора 2013",
+      "stats": {
+        "total_attempts": 181,
+        "passed_attempts": 123,
+        "pass_rate": 67.96
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Орион-НН",
+      "stats": {
+        "total_attempts": 90,
+        "passed_attempts": 61,
+        "pass_rate": 67.78
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Идол",
+      "stats": {
+        "total_attempts": 189,
+        "passed_attempts": 128,
+        "pass_rate": 67.72
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "Слоби ДООЕЛ",
+      "stats": {
+        "total_attempts": 46,
+        "passed_attempts": 31,
+        "pass_rate": 67.39
+      },
+      "location": "Делчево"
+    },
+    {
+      "school": "СТАРТ-ЕДЕН ДООЕЛ ПРИЛЕП",
+      "stats": {
+        "total_attempts": 249,
+        "passed_attempts": 167,
+        "pass_rate": 67.07
+      },
+      "location": "Прилеп"
+    },
+    {
+      "school": "ДИТИ-КО 2020",
+      "stats": {
+        "total_attempts": 257,
+        "passed_attempts": 172,
+        "pass_rate": 66.93
+      },
+      "location": "Дебар"
+    },
+    {
+      "school": "Старт-Митев",
+      "stats": {
+        "total_attempts": 51,
+        "passed_attempts": 34,
+        "pass_rate": 66.67
+      },
+      "location": "Велес"
+    },
+    {
+      "school": "Моменто",
+      "stats": {
+        "total_attempts": 183,
+        "passed_attempts": 122,
+        "pass_rate": 66.67
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "ДООЕЛ„АВТО ОЛИ АС-РЕСЕН“ Ресен",
+      "stats": {
+        "total_attempts": 24,
+        "passed_attempts": 16,
+        "pass_rate": 66.67
+      },
+      "location": "Ресен"
+    },
+    {
+      "school": "Стил",
+      "stats": {
+        "total_attempts": 106,
+        "passed_attempts": 70,
+        "pass_rate": 66.04
+      },
+      "location": "Гевгелија"
+    },
+    {
+      "school": "СВ-КОМЕРЦ",
+      "stats": {
+        "total_attempts": 198,
+        "passed_attempts": 130,
+        "pass_rate": 65.66
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "АМД Тетово",
+      "stats": {
+        "total_attempts": 26,
+        "passed_attempts": 17,
+        "pass_rate": 65.38
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Галеб",
+      "stats": {
+        "total_attempts": 179,
+        "passed_attempts": 117,
+        "pass_rate": 65.36
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Шкорпион С 2014",
+      "stats": {
+        "total_attempts": 43,
+        "passed_attempts": 28,
+        "pass_rate": 65.12
+      },
+      "location": "Охрид"
+    },
+    {
+      "school": "непозната",
+      "stats": {
+        "total_attempts": 37,
+        "passed_attempts": 24,
+        "pass_rate": 64.86
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "СМАРТ",
+      "stats": {
+        "total_attempts": 136,
+        "passed_attempts": 88,
+        "pass_rate": 64.71
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Драјв Скул",
+      "stats": {
+        "total_attempts": 51,
+        "passed_attempts": 33,
+        "pass_rate": 64.71
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Флорида РП",
+      "stats": {
+        "total_attempts": 305,
+        "passed_attempts": 197,
+        "pass_rate": 64.59
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Беко Бс Дооел",
+      "stats": {
+        "total_attempts": 90,
+        "passed_attempts": 58,
+        "pass_rate": 64.44
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Ауто-Релакс",
+      "stats": {
+        "total_attempts": 53,
+        "passed_attempts": 34,
+        "pass_rate": 64.15
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Зебра АБЦ Дооел",
+      "stats": {
+        "total_attempts": 121,
+        "passed_attempts": 77,
+        "pass_rate": 63.64
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Сион",
+      "stats": {
+        "total_attempts": 85,
+        "passed_attempts": 54,
+        "pass_rate": 63.53
+      },
+      "location": "Радовиш"
+    },
+    {
+      "school": "Аполо",
+      "stats": {
+        "total_attempts": 52,
+        "passed_attempts": 33,
+        "pass_rate": 63.46
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Арт",
+      "stats": {
+        "total_attempts": 281,
+        "passed_attempts": 177,
+        "pass_rate": 62.99
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "УНИОН",
+      "stats": {
+        "total_attempts": 283,
+        "passed_attempts": 178,
+        "pass_rate": 62.9
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Ас-Коко",
+      "stats": {
+        "total_attempts": 121,
+        "passed_attempts": 76,
+        "pass_rate": 62.81
+      },
+      "location": "Кратово"
+    },
+    {
+      "school": "АСХ Хирда",
+      "stats": {
+        "total_attempts": 418,
+        "passed_attempts": 258,
+        "pass_rate": 61.72
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Брм брм Л",
+      "stats": {
+        "total_attempts": 70,
+        "passed_attempts": 43,
+        "pass_rate": 61.43
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Визион- Идеал",
+      "stats": {
+        "total_attempts": 44,
+        "passed_attempts": 27,
+        "pass_rate": 61.36
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Болана ком",
+      "stats": {
+        "total_attempts": 121,
+        "passed_attempts": 74,
+        "pass_rate": 61.16
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Миле-Иле Звезди",
+      "stats": {
+        "total_attempts": 23,
+        "passed_attempts": 14,
+        "pass_rate": 60.87
+      },
+      "location": "Гевгелија"
+    },
+    {
+      "school": "АМЗ-Гостивар",
+      "stats": {
+        "total_attempts": 43,
+        "passed_attempts": 26,
+        "pass_rate": 60.47
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "РИЗИНОВ",
+      "stats": {
+        "total_attempts": 135,
+        "passed_attempts": 81,
+        "pass_rate": 60.0
+      },
+      "location": "Неготино"
+    },
+    {
+      "school": "Југо Фер",
+      "stats": {
+        "total_attempts": 752,
+        "passed_attempts": 451,
+        "pass_rate": 59.97
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "УНО-МИРАЛИМ",
+      "stats": {
+        "total_attempts": 233,
+        "passed_attempts": 139,
+        "pass_rate": 59.66
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Никола Карев",
+      "stats": {
+        "total_attempts": 32,
+        "passed_attempts": 19,
+        "pass_rate": 59.38
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "СТАРТ ЦБА",
+      "stats": {
+        "total_attempts": 351,
+        "passed_attempts": 208,
+        "pass_rate": 59.26
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Шкорпион Обука",
+      "stats": {
+        "total_attempts": 93,
+        "passed_attempts": 55,
+        "pass_rate": 59.14
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Дијана 95",
+      "stats": {
+        "total_attempts": 61,
+        "passed_attempts": 36,
+        "pass_rate": 59.02
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "Рекета",
+      "stats": {
+        "total_attempts": 99,
+        "passed_attempts": 58,
+        "pass_rate": 58.59
+      },
+      "location": "Струга"
+    },
+    {
+      "school": "М 22 Маријана 2015",
+      "stats": {
+        "total_attempts": 36,
+        "passed_attempts": 21,
+        "pass_rate": 58.33
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "АРТ",
+      "stats": {
+        "total_attempts": 155,
+        "passed_attempts": 90,
+        "pass_rate": 58.06
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Мекларен",
+      "stats": {
+        "total_attempts": 117,
+        "passed_attempts": 67,
+        "pass_rate": 57.26
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "АР-ДИ",
+      "stats": {
+        "total_attempts": 253,
+        "passed_attempts": 144,
+        "pass_rate": 56.92
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ДЕЛТА",
+      "stats": {
+        "total_attempts": 127,
+        "passed_attempts": 72,
+        "pass_rate": 56.69
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Омега",
+      "stats": {
+        "total_attempts": 90,
+        "passed_attempts": 51,
+        "pass_rate": 56.67
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "БМВВ-М3",
+      "stats": {
+        "total_attempts": 53,
+        "passed_attempts": 30,
+        "pass_rate": 56.6
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Елита дривинг",
+      "stats": {
+        "total_attempts": 62,
+        "passed_attempts": 35,
+        "pass_rate": 56.45
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "ШАР",
+      "stats": {
+        "total_attempts": 145,
+        "passed_attempts": 81,
+        "pass_rate": 55.86
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Панда-ЛТД",
+      "stats": {
+        "total_attempts": 73,
+        "passed_attempts": 40,
+        "pass_rate": 54.79
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Ел Хилал - Јуниор",
+      "stats": {
+        "total_attempts": 108,
+        "passed_attempts": 59,
+        "pass_rate": 54.63
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Паљош",
+      "stats": {
+        "total_attempts": 46,
+        "passed_attempts": 25,
+        "pass_rate": 54.35
+      },
+      "location": "Струмица"
+    },
+    {
+      "school": "Огулин",
+      "stats": {
+        "total_attempts": 310,
+        "passed_attempts": 168,
+        "pass_rate": 54.19
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Зелен Сигнал",
+      "stats": {
+        "total_attempts": 277,
+        "passed_attempts": 150,
+        "pass_rate": 54.15
+      },
+      "location": "Кочани"
+    },
+    {
+      "school": "ХИТИ ЛЕССОНС",
+      "stats": {
+        "total_attempts": 61,
+        "passed_attempts": 33,
+        "pass_rate": 54.1
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Тимони груп",
+      "stats": {
+        "total_attempts": 23,
+        "passed_attempts": 12,
+        "pass_rate": 52.17
+      },
+      "location": "Кичево"
+    },
+    {
+      "school": "Ера - Рели",
+      "stats": {
+        "total_attempts": 27,
+        "passed_attempts": 14,
+        "pass_rate": 51.85
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Монели-Мил",
+      "stats": {
+        "total_attempts": 91,
+        "passed_attempts": 47,
+        "pass_rate": 51.65
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Зебра-Категорија АБЦ",
+      "stats": {
+        "total_attempts": 183,
+        "passed_attempts": 92,
+        "pass_rate": 50.27
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Сигурност ГТБ",
+      "stats": {
+        "total_attempts": 40,
+        "passed_attempts": 20,
+        "pass_rate": 50.0
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Ангела",
+      "stats": {
+        "total_attempts": 58,
+        "passed_attempts": 29,
+        "pass_rate": 50.0
+      },
+      "location": "Куманово"
+    },
+    {
+      "school": "ГРАНД СЕМАФОР",
+      "stats": {
+        "total_attempts": 138,
+        "passed_attempts": 65,
+        "pass_rate": 47.1
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "Европски Возач ДООЕЛ Скопје",
+      "stats": {
+        "total_attempts": 63,
+        "passed_attempts": 29,
+        "pass_rate": 46.03
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Моша Пијаде",
+      "stats": {
+        "total_attempts": 53,
+        "passed_attempts": 24,
+        "pass_rate": 45.28
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Струга-ком",
+      "stats": {
+        "total_attempts": 28,
+        "passed_attempts": 12,
+        "pass_rate": 42.86
+      },
+      "location": "Скопје"
+    },
+    {
+      "school": "Тимони Теута",
+      "stats": {
+        "total_attempts": 151,
+        "passed_attempts": 64,
+        "pass_rate": 42.38
+      },
+      "location": "Гостивар"
+    },
+    {
+      "school": "МБ",
+      "stats": {
+        "total_attempts": 113,
+        "passed_attempts": 47,
+        "pass_rate": 41.59
+      },
+      "location": "Тетово"
+    },
+    {
+      "school": "Емилија",
+      "stats": {
+        "total_attempts": 76,
+        "passed_attempts": 29,
+        "pass_rate": 38.16
+      },
+      "location": "Скопје"
+    }
+  ],
+  "latest_date": "21.11.2024"
+}
